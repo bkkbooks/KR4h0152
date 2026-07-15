@@ -981,1927 +981,4813 @@ assets:
   - {seq: 479, role: markers, filename: assets/KR4h0152_479-WYG.markers.yaml, hash: 'sha256:013d222f92c6ca00d139136dd2dc2c01243058bbe3713d23330bf1968e2cb40f'}
   - {seq: 480, role: markers, filename: assets/KR4h0152_480-WYG.markers.yaml, hash: 'sha256:f27c89480173f00af73eaa36e472a1c17eddb8a9668a4c78ff5bd7f3325b3b13'}
 table_of_contents:
-- ref: {seq: 0, marker_id: KR4h0152_WYG_000-1a, span: [body, 0, 538]}
+- ref:
+    seq: 0
+    marker_id: KR4h0152_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 538
   label: 提要
   type: section
   level: 1
-- ref: {seq: 1, marker_id: KR4h0152_WYG_001-1a, span: [body, 0, 12821]}
+- ref:
+    seq: 1
+    marker_id: KR4h0152_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 12821
   label: 卷一
   type: section
   level: 1
-- ref: {seq: 2, marker_id: KR4h0152_WYG_002-1a, span: [body, 0, 6782]}
+- ref:
+    seq: 2
+    marker_id: KR4h0152_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 6782
   label: 卷二
   type: section
   level: 1
-- ref: {seq: 3, marker_id: KR4h0152_WYG_003-1a, span: [body, 0, 3859]}
+- ref:
+    seq: 3
+    marker_id: KR4h0152_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 3859
   label: 卷三
   type: section
   level: 1
-- ref: {seq: 4, marker_id: KR4h0152_WYG_004-1a, span: [body, 0, 5548]}
+- ref:
+    seq: 4
+    marker_id: KR4h0152_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 5548
   label: 卷四
   type: section
   level: 1
-- ref: {seq: 5, marker_id: KR4h0152_WYG_005-1a, span: [body, 0, 5186]}
+- ref:
+    seq: 5
+    marker_id: KR4h0152_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 5186
   label: 卷五
   type: section
   level: 1
-- ref: {seq: 6, marker_id: KR4h0152_WYG_006-1a, span: [body, 0, 3420]}
+- ref:
+    seq: 6
+    marker_id: KR4h0152_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 3420
   label: 卷六
   type: section
   level: 1
-- ref: {seq: 7, marker_id: KR4h0152_WYG_007-1a, span: [body, 0, 3615]}
+- ref:
+    seq: 7
+    marker_id: KR4h0152_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 3615
   label: 卷七
   type: section
   level: 1
-- ref: {seq: 8, marker_id: KR4h0152_WYG_008-1a, span: [body, 0, 4630]}
+- ref:
+    seq: 8
+    marker_id: KR4h0152_WYG_008-1a
+    span:
+    - body
+    - 0
+    - 4630
   label: 卷八
   type: section
   level: 1
-- ref: {seq: 9, marker_id: KR4h0152_WYG_009-1a, span: [body, 0, 4888]}
+- ref:
+    seq: 9
+    marker_id: KR4h0152_WYG_009-1a
+    span:
+    - body
+    - 0
+    - 4888
   label: 卷九
   type: section
   level: 1
-- ref: {seq: 10, marker_id: KR4h0152_WYG_010-1a, span: [body, 0, 3537]}
+- ref:
+    seq: 10
+    marker_id: KR4h0152_WYG_010-1a
+    span:
+    - body
+    - 0
+    - 3537
   label: 卷十
   type: section
   level: 1
-- ref: {seq: 11, marker_id: KR4h0152_WYG_011-1a, span: [body, 0, 7330]}
+- ref:
+    seq: 11
+    marker_id: KR4h0152_WYG_011-1a
+    span:
+    - body
+    - 0
+    - 7330
   label: 卷十一
   type: section
   level: 1
-- ref: {seq: 12, marker_id: KR4h0152_WYG_012-1a, span: [body, 0, 4020]}
+- ref:
+    seq: 12
+    marker_id: KR4h0152_WYG_012-1a
+    span:
+    - body
+    - 0
+    - 4020
   label: 卷十二
   type: section
   level: 1
-- ref: {seq: 13, marker_id: KR4h0152_WYG_013-1a, span: [body, 0, 5200]}
+- ref:
+    seq: 13
+    marker_id: KR4h0152_WYG_013-1a
+    span:
+    - body
+    - 0
+    - 5200
   label: 卷十三
   type: section
   level: 1
-- ref: {seq: 14, marker_id: KR4h0152_WYG_014-1a, span: [body, 0, 4437]}
+- ref:
+    seq: 14
+    marker_id: KR4h0152_WYG_014-1a
+    span:
+    - body
+    - 0
+    - 4437
   label: 卷十四
   type: section
   level: 1
-- ref: {seq: 15, marker_id: KR4h0152_WYG_015-1a, span: [body, 0, 4581]}
+- ref:
+    seq: 15
+    marker_id: KR4h0152_WYG_015-1a
+    span:
+    - body
+    - 0
+    - 4581
   label: 卷十五
   type: section
   level: 1
-- ref: {seq: 16, marker_id: KR4h0152_WYG_016-1a, span: [body, 0, 5000]}
+- ref:
+    seq: 16
+    marker_id: KR4h0152_WYG_016-1a
+    span:
+    - body
+    - 0
+    - 5000
   label: 卷十六
   type: section
   level: 1
-- ref: {seq: 17, marker_id: KR4h0152_WYG_017-1a, span: [body, 0, 6464]}
+- ref:
+    seq: 17
+    marker_id: KR4h0152_WYG_017-1a
+    span:
+    - body
+    - 0
+    - 6464
   label: 卷十七
   type: section
   level: 1
-- ref: {seq: 18, marker_id: KR4h0152_WYG_018-1a, span: [body, 0, 2437]}
+- ref:
+    seq: 18
+    marker_id: KR4h0152_WYG_018-1a
+    span:
+    - body
+    - 0
+    - 2437
   label: 卷十八
   type: section
   level: 1
-- ref: {seq: 19, marker_id: KR4h0152_WYG_019-1a, span: [body, 0, 2778]}
+- ref:
+    seq: 19
+    marker_id: KR4h0152_WYG_019-1a
+    span:
+    - body
+    - 0
+    - 2778
   label: 卷十九
   type: section
   level: 1
-- ref: {seq: 20, marker_id: KR4h0152_WYG_020-1a, span: [body, 0, 3848]}
+- ref:
+    seq: 20
+    marker_id: KR4h0152_WYG_020-1a
+    span:
+    - body
+    - 0
+    - 3848
   label: 卷二十
   type: section
   level: 1
-- ref: {seq: 21, marker_id: KR4h0152_WYG_021-1a, span: [body, 0, 3807]}
+- ref:
+    seq: 21
+    marker_id: KR4h0152_WYG_021-1a
+    span:
+    - body
+    - 0
+    - 3807
   label: 卷二十一
   type: section
   level: 1
-- ref: {seq: 22, marker_id: KR4h0152_WYG_022-1a, span: [body, 0, 4601]}
+- ref:
+    seq: 22
+    marker_id: KR4h0152_WYG_022-1a
+    span:
+    - body
+    - 0
+    - 4601
   label: 卷二十二
   type: section
   level: 1
-- ref: {seq: 23, marker_id: KR4h0152_WYG_023-1a, span: [body, 0, 3887]}
+- ref:
+    seq: 23
+    marker_id: KR4h0152_WYG_023-1a
+    span:
+    - body
+    - 0
+    - 3887
   label: 卷二十三
   type: section
   level: 1
-- ref: {seq: 24, marker_id: KR4h0152_WYG_024-1a, span: [body, 0, 5592]}
+- ref:
+    seq: 24
+    marker_id: KR4h0152_WYG_024-1a
+    span:
+    - body
+    - 0
+    - 5592
   label: 卷二十四
   type: section
   level: 1
-- ref: {seq: 25, marker_id: KR4h0152_WYG_025-1a, span: [body, 0, 2871]}
+- ref:
+    seq: 25
+    marker_id: KR4h0152_WYG_025-1a
+    span:
+    - body
+    - 0
+    - 2871
   label: 卷二十五
   type: section
   level: 1
-- ref: {seq: 26, marker_id: KR4h0152_WYG_026-1a, span: [body, 0, 12294]}
+- ref:
+    seq: 26
+    marker_id: KR4h0152_WYG_026-1a
+    span:
+    - body
+    - 0
+    - 12294
   label: 卷二十六
   type: section
   level: 1
-- ref: {seq: 27, marker_id: KR4h0152_WYG_027-1a, span: [body, 0, 4755]}
+- ref:
+    seq: 27
+    marker_id: KR4h0152_WYG_027-1a
+    span:
+    - body
+    - 0
+    - 4755
   label: 卷二十七
   type: section
   level: 1
-- ref: {seq: 28, marker_id: KR4h0152_WYG_028-1a, span: [body, 0, 5068]}
+- ref:
+    seq: 28
+    marker_id: KR4h0152_WYG_028-1a
+    span:
+    - body
+    - 0
+    - 5068
   label: 卷二十八
   type: section
   level: 1
-- ref: {seq: 29, marker_id: KR4h0152_WYG_029-1a, span: [body, 0, 3428]}
+- ref:
+    seq: 29
+    marker_id: KR4h0152_WYG_029-1a
+    span:
+    - body
+    - 0
+    - 3428
   label: 卷二十九
   type: section
   level: 1
-- ref: {seq: 30, marker_id: KR4h0152_WYG_030-1a, span: [body, 0, 2597]}
+- ref:
+    seq: 30
+    marker_id: KR4h0152_WYG_030-1a
+    span:
+    - body
+    - 0
+    - 2597
   label: 卷三十
   type: section
   level: 1
-- ref: {seq: 31, marker_id: KR4h0152_WYG_031-1a, span: [body, 0, 4710]}
+- ref:
+    seq: 31
+    marker_id: KR4h0152_WYG_031-1a
+    span:
+    - body
+    - 0
+    - 4710
   label: 卷三十一
   type: section
   level: 1
-- ref: {seq: 32, marker_id: KR4h0152_WYG_032-1a, span: [body, 0, 7839]}
+- ref:
+    seq: 32
+    marker_id: KR4h0152_WYG_032-1a
+    span:
+    - body
+    - 0
+    - 7839
   label: 卷三十二
   type: section
   level: 1
-- ref: {seq: 33, marker_id: KR4h0152_WYG_033-1a, span: [body, 0, 4816]}
+- ref:
+    seq: 33
+    marker_id: KR4h0152_WYG_033-1a
+    span:
+    - body
+    - 0
+    - 4816
   label: 卷三十三
   type: section
   level: 1
-- ref: {seq: 34, marker_id: KR4h0152_WYG_034-1a, span: [body, 0, 4125]}
+- ref:
+    seq: 34
+    marker_id: KR4h0152_WYG_034-1a
+    span:
+    - body
+    - 0
+    - 4125
   label: 卷三十四
   type: section
   level: 1
-- ref: {seq: 35, marker_id: KR4h0152_WYG_035-1a, span: [body, 0, 1442]}
+- ref:
+    seq: 35
+    marker_id: KR4h0152_WYG_035-1a
+    span:
+    - body
+    - 0
+    - 1442
   label: 卷三十五
   type: section
   level: 1
-- ref: {seq: 36, marker_id: KR4h0152_WYG_036-1a, span: [body, 0, 3420]}
+- ref:
+    seq: 36
+    marker_id: KR4h0152_WYG_036-1a
+    span:
+    - body
+    - 0
+    - 3420
   label: 卷三十六
   type: section
   level: 1
-- ref: {seq: 37, marker_id: KR4h0152_WYG_037-1a, span: [body, 0, 3871]}
+- ref:
+    seq: 37
+    marker_id: KR4h0152_WYG_037-1a
+    span:
+    - body
+    - 0
+    - 3871
   label: 卷三十七
   type: section
   level: 1
-- ref: {seq: 38, marker_id: KR4h0152_WYG_038-1a, span: [body, 0, 3855]}
+- ref:
+    seq: 38
+    marker_id: KR4h0152_WYG_038-1a
+    span:
+    - body
+    - 0
+    - 3855
   label: 卷三十八
   type: section
   level: 1
-- ref: {seq: 39, marker_id: KR4h0152_WYG_039-1a, span: [body, 0, 4854]}
+- ref:
+    seq: 39
+    marker_id: KR4h0152_WYG_039-1a
+    span:
+    - body
+    - 0
+    - 4854
   label: 卷三十九
   type: section
   level: 1
-- ref: {seq: 40, marker_id: KR4h0152_WYG_040-1a, span: [body, 0, 4200]}
+- ref:
+    seq: 40
+    marker_id: KR4h0152_WYG_040-1a
+    span:
+    - body
+    - 0
+    - 4200
   label: 卷四十
   type: section
   level: 1
-- ref: {seq: 41, marker_id: KR4h0152_WYG_041-1a, span: [body, 0, 4709]}
+- ref:
+    seq: 41
+    marker_id: KR4h0152_WYG_041-1a
+    span:
+    - body
+    - 0
+    - 4709
   label: 卷四十一
   type: section
   level: 1
-- ref: {seq: 42, marker_id: KR4h0152_WYG_042-1a, span: [body, 0, 3671]}
+- ref:
+    seq: 42
+    marker_id: KR4h0152_WYG_042-1a
+    span:
+    - body
+    - 0
+    - 3671
   label: 卷四十二
   type: section
   level: 1
-- ref: {seq: 43, marker_id: KR4h0152_WYG_043-1a, span: [body, 0, 3411]}
+- ref:
+    seq: 43
+    marker_id: KR4h0152_WYG_043-1a
+    span:
+    - body
+    - 0
+    - 3411
   label: 卷四十三
   type: section
   level: 1
-- ref: {seq: 44, marker_id: KR4h0152_WYG_044-1a, span: [body, 0, 6379]}
+- ref:
+    seq: 44
+    marker_id: KR4h0152_WYG_044-1a
+    span:
+    - body
+    - 0
+    - 6379
   label: 卷四十四
   type: section
   level: 1
-- ref: {seq: 45, marker_id: KR4h0152_WYG_045-1a, span: [body, 0, 1686]}
+- ref:
+    seq: 45
+    marker_id: KR4h0152_WYG_045-1a
+    span:
+    - body
+    - 0
+    - 1686
   label: 卷四十五
   type: section
   level: 1
-- ref: {seq: 46, marker_id: KR4h0152_WYG_046-1a, span: [body, 0, 8255]}
+- ref:
+    seq: 46
+    marker_id: KR4h0152_WYG_046-1a
+    span:
+    - body
+    - 0
+    - 8255
   label: 卷四十六
   type: section
   level: 1
-- ref: {seq: 47, marker_id: KR4h0152_WYG_047-1a, span: [body, 0, 9075]}
+- ref:
+    seq: 47
+    marker_id: KR4h0152_WYG_047-1a
+    span:
+    - body
+    - 0
+    - 9075
   label: 卷四十七
   type: section
   level: 1
-- ref: {seq: 48, marker_id: KR4h0152_WYG_048-1a, span: [body, 0, 9516]}
+- ref:
+    seq: 48
+    marker_id: KR4h0152_WYG_048-1a
+    span:
+    - body
+    - 0
+    - 9516
   label: 卷四十八
   type: section
   level: 1
-- ref: {seq: 49, marker_id: KR4h0152_WYG_049-1a, span: [body, 0, 8895]}
+- ref:
+    seq: 49
+    marker_id: KR4h0152_WYG_049-1a
+    span:
+    - body
+    - 0
+    - 8895
   label: 卷四十九
   type: section
   level: 1
-- ref: {seq: 50, marker_id: KR4h0152_WYG_050-1a, span: [body, 0, 10298]}
+- ref:
+    seq: 50
+    marker_id: KR4h0152_WYG_050-1a
+    span:
+    - body
+    - 0
+    - 10298
   label: 卷五十
   type: section
   level: 1
-- ref: {seq: 51, marker_id: KR4h0152_WYG_051-1a, span: [body, 0, 8120]}
+- ref:
+    seq: 51
+    marker_id: KR4h0152_WYG_051-1a
+    span:
+    - body
+    - 0
+    - 8120
   label: 卷五十一
   type: section
   level: 1
-- ref: {seq: 52, marker_id: KR4h0152_WYG_052-1a, span: [body, 0, 8281]}
+- ref:
+    seq: 52
+    marker_id: KR4h0152_WYG_052-1a
+    span:
+    - body
+    - 0
+    - 8281
   label: 卷五十二
   type: section
   level: 1
-- ref: {seq: 53, marker_id: KR4h0152_WYG_053-1a, span: [body, 0, 9208]}
+- ref:
+    seq: 53
+    marker_id: KR4h0152_WYG_053-1a
+    span:
+    - body
+    - 0
+    - 9208
   label: 卷五十三
   type: section
   level: 1
-- ref: {seq: 54, marker_id: KR4h0152_WYG_054-1a, span: [body, 0, 12749]}
+- ref:
+    seq: 54
+    marker_id: KR4h0152_WYG_054-1a
+    span:
+    - body
+    - 0
+    - 12749
   label: 卷五十四
   type: section
   level: 1
-- ref: {seq: 55, marker_id: KR4h0152_WYG_055-1a, span: [body, 0, 7550]}
+- ref:
+    seq: 55
+    marker_id: KR4h0152_WYG_055-1a
+    span:
+    - body
+    - 0
+    - 7550
   label: 卷五十五
   type: section
   level: 1
-- ref: {seq: 56, marker_id: KR4h0152_WYG_056-1a, span: [body, 0, 12551]}
+- ref:
+    seq: 56
+    marker_id: KR4h0152_WYG_056-1a
+    span:
+    - body
+    - 0
+    - 12551
   label: 卷五十六
   type: section
   level: 1
-- ref: {seq: 57, marker_id: KR4h0152_WYG_057-1a, span: [body, 0, 8934]}
+- ref:
+    seq: 57
+    marker_id: KR4h0152_WYG_057-1a
+    span:
+    - body
+    - 0
+    - 8934
   label: 卷五十七
   type: section
   level: 1
-- ref: {seq: 58, marker_id: KR4h0152_WYG_058-1a, span: [body, 0, 4619]}
+- ref:
+    seq: 58
+    marker_id: KR4h0152_WYG_058-1a
+    span:
+    - body
+    - 0
+    - 4619
   label: 卷五十八
   type: section
   level: 1
-- ref: {seq: 59, marker_id: KR4h0152_WYG_059-1a, span: [body, 0, 2626]}
+- ref:
+    seq: 59
+    marker_id: KR4h0152_WYG_059-1a
+    span:
+    - body
+    - 0
+    - 2626
   label: 卷五十九
   type: section
   level: 1
-- ref: {seq: 60, marker_id: KR4h0152_WYG_060-1a, span: [body, 0, 5048]}
+- ref:
+    seq: 60
+    marker_id: KR4h0152_WYG_060-1a
+    span:
+    - body
+    - 0
+    - 5048
   label: 卷六十
   type: section
   level: 1
-- ref: {seq: 61, marker_id: KR4h0152_WYG_061-1a, span: [body, 0, 1671]}
+- ref:
+    seq: 61
+    marker_id: KR4h0152_WYG_061-1a
+    span:
+    - body
+    - 0
+    - 1671
   label: 卷六十一
   type: section
   level: 1
-- ref: {seq: 62, marker_id: KR4h0152_WYG_062-1a, span: [body, 0, 1137]}
+- ref:
+    seq: 62
+    marker_id: KR4h0152_WYG_062-1a
+    span:
+    - body
+    - 0
+    - 1137
   label: 卷六十二
   type: section
   level: 1
-- ref: {seq: 63, marker_id: KR4h0152_WYG_063-1a, span: [body, 0, 1218]}
+- ref:
+    seq: 63
+    marker_id: KR4h0152_WYG_063-1a
+    span:
+    - body
+    - 0
+    - 1218
   label: 卷六十三
   type: section
   level: 1
-- ref: {seq: 64, marker_id: KR4h0152_WYG_064-1a, span: [body, 0, 5009]}
+- ref:
+    seq: 64
+    marker_id: KR4h0152_WYG_064-1a
+    span:
+    - body
+    - 0
+    - 5009
   label: 卷六十四
   type: section
   level: 1
-- ref: {seq: 65, marker_id: KR4h0152_WYG_065-1a, span: [body, 0, 3472]}
+- ref:
+    seq: 65
+    marker_id: KR4h0152_WYG_065-1a
+    span:
+    - body
+    - 0
+    - 3472
   label: 卷六十五
   type: section
   level: 1
-- ref: {seq: 66, marker_id: KR4h0152_WYG_066-1a, span: [body, 0, 5005]}
+- ref:
+    seq: 66
+    marker_id: KR4h0152_WYG_066-1a
+    span:
+    - body
+    - 0
+    - 5005
   label: 卷六十六
   type: section
   level: 1
-- ref: {seq: 67, marker_id: KR4h0152_WYG_067-1a, span: [body, 0, 10329]}
+- ref:
+    seq: 67
+    marker_id: KR4h0152_WYG_067-1a
+    span:
+    - body
+    - 0
+    - 10329
   label: 卷六十七
   type: section
   level: 1
-- ref: {seq: 68, marker_id: KR4h0152_WYG_068-1a, span: [body, 0, 9891]}
+- ref:
+    seq: 68
+    marker_id: KR4h0152_WYG_068-1a
+    span:
+    - body
+    - 0
+    - 9891
   label: 卷六十八
   type: section
   level: 1
-- ref: {seq: 69, marker_id: KR4h0152_WYG_069-1a, span: [body, 0, 10680]}
+- ref:
+    seq: 69
+    marker_id: KR4h0152_WYG_069-1a
+    span:
+    - body
+    - 0
+    - 10680
   label: 卷六十九
   type: section
   level: 1
-- ref: {seq: 70, marker_id: KR4h0152_WYG_070-1a, span: [body, 0, 6942]}
+- ref:
+    seq: 70
+    marker_id: KR4h0152_WYG_070-1a
+    span:
+    - body
+    - 0
+    - 6942
   label: 卷七十
   type: section
   level: 1
-- ref: {seq: 71, marker_id: KR4h0152_WYG_071-1a, span: [body, 0, 15181]}
+- ref:
+    seq: 71
+    marker_id: KR4h0152_WYG_071-1a
+    span:
+    - body
+    - 0
+    - 15181
   label: 卷七十一
   type: section
   level: 1
-- ref: {seq: 72, marker_id: KR4h0152_WYG_072-1a, span: [body, 0, 7714]}
+- ref:
+    seq: 72
+    marker_id: KR4h0152_WYG_072-1a
+    span:
+    - body
+    - 0
+    - 7714
   label: 卷七十二
   type: section
   level: 1
-- ref: {seq: 73, marker_id: KR4h0152_WYG_073-1a, span: [body, 0, 6774]}
+- ref:
+    seq: 73
+    marker_id: KR4h0152_WYG_073-1a
+    span:
+    - body
+    - 0
+    - 6774
   label: 卷七十三
   type: section
   level: 1
-- ref: {seq: 74, marker_id: KR4h0152_WYG_074-1a, span: [body, 0, 6420]}
+- ref:
+    seq: 74
+    marker_id: KR4h0152_WYG_074-1a
+    span:
+    - body
+    - 0
+    - 6420
   label: 卷七十四
   type: section
   level: 1
-- ref: {seq: 75, marker_id: KR4h0152_WYG_075-1a, span: [body, 0, 5696]}
+- ref:
+    seq: 75
+    marker_id: KR4h0152_WYG_075-1a
+    span:
+    - body
+    - 0
+    - 5696
   label: 卷七十五
   type: section
   level: 1
-- ref: {seq: 76, marker_id: KR4h0152_WYG_076-1a, span: [body, 0, 4031]}
+- ref:
+    seq: 76
+    marker_id: KR4h0152_WYG_076-1a
+    span:
+    - body
+    - 0
+    - 4031
   label: 卷七十六
   type: section
   level: 1
-- ref: {seq: 77, marker_id: KR4h0152_WYG_077-1a, span: [body, 0, 5342]}
+- ref:
+    seq: 77
+    marker_id: KR4h0152_WYG_077-1a
+    span:
+    - body
+    - 0
+    - 5342
   label: 卷七十七
   type: section
   level: 1
-- ref: {seq: 78, marker_id: KR4h0152_WYG_078-1a, span: [body, 0, 8302]}
+- ref:
+    seq: 78
+    marker_id: KR4h0152_WYG_078-1a
+    span:
+    - body
+    - 0
+    - 8302
   label: 卷七十八
   type: section
   level: 1
-- ref: {seq: 79, marker_id: KR4h0152_WYG_079-1a, span: [body, 0, 10636]}
+- ref:
+    seq: 79
+    marker_id: KR4h0152_WYG_079-1a
+    span:
+    - body
+    - 0
+    - 10636
   label: 卷七十九
   type: section
   level: 1
-- ref: {seq: 80, marker_id: KR4h0152_WYG_080-1a, span: [body, 0, 1822]}
+- ref:
+    seq: 80
+    marker_id: KR4h0152_WYG_080-1a
+    span:
+    - body
+    - 0
+    - 1822
   label: 卷八十
   type: section
   level: 1
-- ref: {seq: 81, marker_id: KR4h0152_WYG_081-1a, span: [body, 0, 4845]}
+- ref:
+    seq: 81
+    marker_id: KR4h0152_WYG_081-1a
+    span:
+    - body
+    - 0
+    - 4845
   label: 卷八十一
   type: section
   level: 1
-- ref: {seq: 82, marker_id: KR4h0152_WYG_082-1a, span: [body, 0, 2382]}
+- ref:
+    seq: 82
+    marker_id: KR4h0152_WYG_082-1a
+    span:
+    - body
+    - 0
+    - 2382
   label: 卷八十二
   type: section
   level: 1
-- ref: {seq: 83, marker_id: KR4h0152_WYG_083-1a, span: [body, 0, 2550]}
+- ref:
+    seq: 83
+    marker_id: KR4h0152_WYG_083-1a
+    span:
+    - body
+    - 0
+    - 2550
   label: 卷八十三
   type: section
   level: 1
-- ref: {seq: 84, marker_id: KR4h0152_WYG_084-1a, span: [body, 0, 6309]}
+- ref:
+    seq: 84
+    marker_id: KR4h0152_WYG_084-1a
+    span:
+    - body
+    - 0
+    - 6309
   label: 卷八十四
   type: section
   level: 1
-- ref: {seq: 85, marker_id: KR4h0152_WYG_085-1a, span: [body, 0, 7208]}
+- ref:
+    seq: 85
+    marker_id: KR4h0152_WYG_085-1a
+    span:
+    - body
+    - 0
+    - 7208
   label: 卷八十五
   type: section
   level: 1
-- ref: {seq: 86, marker_id: KR4h0152_WYG_086-1a, span: [body, 0, 3385]}
+- ref:
+    seq: 86
+    marker_id: KR4h0152_WYG_086-1a
+    span:
+    - body
+    - 0
+    - 3385
   label: 卷八十六
   type: section
   level: 1
-- ref: {seq: 87, marker_id: KR4h0152_WYG_087-1a, span: [body, 0, 2615]}
+- ref:
+    seq: 87
+    marker_id: KR4h0152_WYG_087-1a
+    span:
+    - body
+    - 0
+    - 2615
   label: 卷八十七
   type: section
   level: 1
-- ref: {seq: 88, marker_id: KR4h0152_WYG_088-1a, span: [body, 0, 5671]}
+- ref:
+    seq: 88
+    marker_id: KR4h0152_WYG_088-1a
+    span:
+    - body
+    - 0
+    - 5671
   label: 卷八十八
   type: section
   level: 1
-- ref: {seq: 89, marker_id: KR4h0152_WYG_089-1a, span: [body, 0, 5568]}
+- ref:
+    seq: 89
+    marker_id: KR4h0152_WYG_089-1a
+    span:
+    - body
+    - 0
+    - 5568
   label: 卷八十九
   type: section
   level: 1
-- ref: {seq: 90, marker_id: KR4h0152_WYG_090-1a, span: [body, 0, 6712]}
+- ref:
+    seq: 90
+    marker_id: KR4h0152_WYG_090-1a
+    span:
+    - body
+    - 0
+    - 6712
   label: 卷九十
   type: section
   level: 1
-- ref: {seq: 91, marker_id: KR4h0152_WYG_091-1a, span: [body, 0, 6759]}
+- ref:
+    seq: 91
+    marker_id: KR4h0152_WYG_091-1a
+    span:
+    - body
+    - 0
+    - 6759
   label: 卷九十一
   type: section
   level: 1
-- ref: {seq: 92, marker_id: KR4h0152_WYG_092-1a, span: [body, 0, 11716]}
+- ref:
+    seq: 92
+    marker_id: KR4h0152_WYG_092-1a
+    span:
+    - body
+    - 0
+    - 11716
   label: 卷九十二
   type: section
   level: 1
-- ref: {seq: 93, marker_id: KR4h0152_WYG_093-1a, span: [body, 0, 7012]}
+- ref:
+    seq: 93
+    marker_id: KR4h0152_WYG_093-1a
+    span:
+    - body
+    - 0
+    - 7012
   label: 卷九十三
   type: section
   level: 1
-- ref: {seq: 94, marker_id: KR4h0152_WYG_094-1a, span: [body, 0, 8488]}
+- ref:
+    seq: 94
+    marker_id: KR4h0152_WYG_094-1a
+    span:
+    - body
+    - 0
+    - 8488
   label: 卷九十四
   type: section
   level: 1
-- ref: {seq: 95, marker_id: KR4h0152_WYG_095-1a, span: [body, 0, 3689]}
+- ref:
+    seq: 95
+    marker_id: KR4h0152_WYG_095-1a
+    span:
+    - body
+    - 0
+    - 3689
   label: 卷九十五
   type: section
   level: 1
-- ref: {seq: 96, marker_id: KR4h0152_WYG_096-1a, span: [body, 0, 1240]}
+- ref:
+    seq: 96
+    marker_id: KR4h0152_WYG_096-1a
+    span:
+    - body
+    - 0
+    - 1240
   label: 卷九十六
   type: section
   level: 1
-- ref: {seq: 97, marker_id: KR4h0152_WYG_097-1a, span: [body, 0, 5268]}
+- ref:
+    seq: 97
+    marker_id: KR4h0152_WYG_097-1a
+    span:
+    - body
+    - 0
+    - 5268
   label: 卷九十七
   type: section
   level: 1
-- ref: {seq: 98, marker_id: KR4h0152_WYG_098-1a, span: [body, 0, 2089]}
+- ref:
+    seq: 98
+    marker_id: KR4h0152_WYG_098-1a
+    span:
+    - body
+    - 0
+    - 2089
   label: 卷九十八
   type: section
   level: 1
-- ref: {seq: 99, marker_id: KR4h0152_WYG_099-1a, span: [body, 0, 1776]}
+- ref:
+    seq: 99
+    marker_id: KR4h0152_WYG_099-1a
+    span:
+    - body
+    - 0
+    - 1776
   label: 卷九十九
   type: section
   level: 1
-- ref: {seq: 100, marker_id: KR4h0152_WYG_100-1a, span: [body, 0, 12614]}
+- ref:
+    seq: 100
+    marker_id: KR4h0152_WYG_100-1a
+    span:
+    - body
+    - 0
+    - 12614
   label: 卷一百
   type: section
   level: 1
-- ref: {seq: 101, marker_id: KR4h0152_WYG_101-1a, span: [body, 0, 7052]}
+- ref:
+    seq: 101
+    marker_id: KR4h0152_WYG_101-1a
+    span:
+    - body
+    - 0
+    - 7052
   label: 卷一百一
   type: section
   level: 1
-- ref: {seq: 102, marker_id: KR4h0152_WYG_102-1a, span: [body, 0, 3238]}
+- ref:
+    seq: 102
+    marker_id: KR4h0152_WYG_102-1a
+    span:
+    - body
+    - 0
+    - 3238
   label: 卷一百二
   type: section
   level: 1
-- ref: {seq: 103, marker_id: KR4h0152_WYG_103-1a, span: [body, 0, 6569]}
+- ref:
+    seq: 103
+    marker_id: KR4h0152_WYG_103-1a
+    span:
+    - body
+    - 0
+    - 6569
   label: 卷一百三
   type: section
   level: 1
-- ref: {seq: 104, marker_id: KR4h0152_WYG_104-1a, span: [body, 0, 5394]}
+- ref:
+    seq: 104
+    marker_id: KR4h0152_WYG_104-1a
+    span:
+    - body
+    - 0
+    - 5394
   label: 卷一百四
   type: section
   level: 1
-- ref: {seq: 105, marker_id: KR4h0152_WYG_105-1a, span: [body, 0, 8031]}
+- ref:
+    seq: 105
+    marker_id: KR4h0152_WYG_105-1a
+    span:
+    - body
+    - 0
+    - 8031
   label: 卷一百五
   type: section
   level: 1
-- ref: {seq: 106, marker_id: KR4h0152_WYG_106-1a, span: [body, 0, 5946]}
+- ref:
+    seq: 106
+    marker_id: KR4h0152_WYG_106-1a
+    span:
+    - body
+    - 0
+    - 5946
   label: 卷一百六
   type: section
   level: 1
-- ref: {seq: 107, marker_id: KR4h0152_WYG_107-1a, span: [body, 0, 1081]}
+- ref:
+    seq: 107
+    marker_id: KR4h0152_WYG_107-1a
+    span:
+    - body
+    - 0
+    - 1081
   label: 卷一百七
   type: section
   level: 1
-- ref: {seq: 108, marker_id: KR4h0152_WYG_108-1a, span: [body, 0, 3729]}
+- ref:
+    seq: 108
+    marker_id: KR4h0152_WYG_108-1a
+    span:
+    - body
+    - 0
+    - 3729
   label: 卷一百八
   type: section
   level: 1
-- ref: {seq: 109, marker_id: KR4h0152_WYG_109-1a, span: [body, 0, 2292]}
+- ref:
+    seq: 109
+    marker_id: KR4h0152_WYG_109-1a
+    span:
+    - body
+    - 0
+    - 2292
   label: 卷一百九
   type: section
   level: 1
-- ref: {seq: 110, marker_id: KR4h0152_WYG_110-1a, span: [body, 0, 8323]}
+- ref:
+    seq: 110
+    marker_id: KR4h0152_WYG_110-1a
+    span:
+    - body
+    - 0
+    - 8323
   label: 卷一百十
   type: section
   level: 1
-- ref: {seq: 111, marker_id: KR4h0152_WYG_111-1a, span: [body, 0, 9507]}
+- ref:
+    seq: 111
+    marker_id: KR4h0152_WYG_111-1a
+    span:
+    - body
+    - 0
+    - 9507
   label: 卷一百十一
   type: section
   level: 1
-- ref: {seq: 112, marker_id: KR4h0152_WYG_112-1a, span: [body, 0, 6609]}
+- ref:
+    seq: 112
+    marker_id: KR4h0152_WYG_112-1a
+    span:
+    - body
+    - 0
+    - 6609
   label: 卷一百十二
   type: section
   level: 1
-- ref: {seq: 113, marker_id: KR4h0152_WYG_113-1a, span: [body, 0, 6268]}
+- ref:
+    seq: 113
+    marker_id: KR4h0152_WYG_113-1a
+    span:
+    - body
+    - 0
+    - 6268
   label: 卷一百十三
   type: section
   level: 1
-- ref: {seq: 114, marker_id: KR4h0152_WYG_114-1a, span: [body, 0, 6372]}
+- ref:
+    seq: 114
+    marker_id: KR4h0152_WYG_114-1a
+    span:
+    - body
+    - 0
+    - 6372
   label: 卷一百十四
   type: section
   level: 1
-- ref: {seq: 115, marker_id: KR4h0152_WYG_115-1a, span: [body, 0, 2093]}
+- ref:
+    seq: 115
+    marker_id: KR4h0152_WYG_115-1a
+    span:
+    - body
+    - 0
+    - 2093
   label: 卷一百十五
   type: section
   level: 1
-- ref: {seq: 116, marker_id: KR4h0152_WYG_116-1a, span: [body, 0, 6341]}
+- ref:
+    seq: 116
+    marker_id: KR4h0152_WYG_116-1a
+    span:
+    - body
+    - 0
+    - 6341
   label: 卷一百十六
   type: section
   level: 1
-- ref: {seq: 117, marker_id: KR4h0152_WYG_117-1a, span: [body, 0, 3446]}
+- ref:
+    seq: 117
+    marker_id: KR4h0152_WYG_117-1a
+    span:
+    - body
+    - 0
+    - 3446
   label: 卷一百十七
   type: section
   level: 1
-- ref: {seq: 118, marker_id: KR4h0152_WYG_118-1a, span: [body, 0, 4575]}
+- ref:
+    seq: 118
+    marker_id: KR4h0152_WYG_118-1a
+    span:
+    - body
+    - 0
+    - 4575
   label: 卷一百十八
   type: section
   level: 1
-- ref: {seq: 119, marker_id: KR4h0152_WYG_119-1a, span: [body, 0, 8187]}
+- ref:
+    seq: 119
+    marker_id: KR4h0152_WYG_119-1a
+    span:
+    - body
+    - 0
+    - 8187
   label: 卷一百十九
   type: section
   level: 1
-- ref: {seq: 120, marker_id: KR4h0152_WYG_120-1a, span: [body, 0, 2363]}
+- ref:
+    seq: 120
+    marker_id: KR4h0152_WYG_120-1a
+    span:
+    - body
+    - 0
+    - 2363
   label: 卷一百二十
   type: section
   level: 1
-- ref: {seq: 121, marker_id: KR4h0152_WYG_121-1a, span: [body, 0, 786]}
+- ref:
+    seq: 121
+    marker_id: KR4h0152_WYG_121-1a
+    span:
+    - body
+    - 0
+    - 786
   label: 卷一百二十一
   type: section
   level: 1
-- ref: {seq: 122, marker_id: KR4h0152_WYG_122-1a, span: [body, 0, 6816]}
+- ref:
+    seq: 122
+    marker_id: KR4h0152_WYG_122-1a
+    span:
+    - body
+    - 0
+    - 6816
   label: 卷一百二十二
   type: section
   level: 1
-- ref: {seq: 123, marker_id: KR4h0152_WYG_123-1a, span: [body, 0, 6270]}
+- ref:
+    seq: 123
+    marker_id: KR4h0152_WYG_123-1a
+    span:
+    - body
+    - 0
+    - 6270
   label: 卷一百二十三
   type: section
   level: 1
-- ref: {seq: 124, marker_id: KR4h0152_WYG_124-1a, span: [body, 0, 6539]}
+- ref:
+    seq: 124
+    marker_id: KR4h0152_WYG_124-1a
+    span:
+    - body
+    - 0
+    - 6539
   label: 卷一百二十四
   type: section
   level: 1
-- ref: {seq: 125, marker_id: KR4h0152_WYG_125-1a, span: [body, 0, 619]}
+- ref:
+    seq: 125
+    marker_id: KR4h0152_WYG_125-1a
+    span:
+    - body
+    - 0
+    - 619
   label: 卷一百二十五
   type: section
   level: 1
-- ref: {seq: 126, marker_id: KR4h0152_WYG_126-1a, span: [body, 0, 1881]}
+- ref:
+    seq: 126
+    marker_id: KR4h0152_WYG_126-1a
+    span:
+    - body
+    - 0
+    - 1881
   label: 卷一百二十六
   type: section
   level: 1
-- ref: {seq: 127, marker_id: KR4h0152_WYG_127-1a, span: [body, 0, 6031]}
+- ref:
+    seq: 127
+    marker_id: KR4h0152_WYG_127-1a
+    span:
+    - body
+    - 0
+    - 6031
   label: 卷一百二十七
   type: section
   level: 1
-- ref: {seq: 128, marker_id: KR4h0152_WYG_128-1a, span: [body, 0, 5426]}
+- ref:
+    seq: 128
+    marker_id: KR4h0152_WYG_128-1a
+    span:
+    - body
+    - 0
+    - 5426
   label: 卷一百二十八
   type: section
   level: 1
-- ref: {seq: 129, marker_id: KR4h0152_WYG_129-1a, span: [body, 0, 524]}
+- ref:
+    seq: 129
+    marker_id: KR4h0152_WYG_129-1a
+    span:
+    - body
+    - 0
+    - 524
   label: 卷一百二十九
   type: section
   level: 1
-- ref: {seq: 130, marker_id: KR4h0152_WYG_130-1a, span: [body, 0, 2984]}
+- ref:
+    seq: 130
+    marker_id: KR4h0152_WYG_130-1a
+    span:
+    - body
+    - 0
+    - 2984
   label: 卷一百三十
   type: section
   level: 1
-- ref: {seq: 131, marker_id: KR4h0152_WYG_131-1a, span: [body, 0, 11585]}
+- ref:
+    seq: 131
+    marker_id: KR4h0152_WYG_131-1a
+    span:
+    - body
+    - 0
+    - 11585
   label: 卷一百三十一
   type: section
   level: 1
-- ref: {seq: 132, marker_id: KR4h0152_WYG_132-1a, span: [body, 0, 2913]}
+- ref:
+    seq: 132
+    marker_id: KR4h0152_WYG_132-1a
+    span:
+    - body
+    - 0
+    - 2913
   label: 卷一百三十二
   type: section
   level: 1
-- ref: {seq: 133, marker_id: KR4h0152_WYG_133-1a, span: [body, 0, 1709]}
+- ref:
+    seq: 133
+    marker_id: KR4h0152_WYG_133-1a
+    span:
+    - body
+    - 0
+    - 1709
   label: 卷一百三十三
   type: section
   level: 1
-- ref: {seq: 134, marker_id: KR4h0152_WYG_134-1a, span: [body, 0, 6895]}
+- ref:
+    seq: 134
+    marker_id: KR4h0152_WYG_134-1a
+    span:
+    - body
+    - 0
+    - 6895
   label: 卷一百三十四
   type: section
   level: 1
-- ref: {seq: 135, marker_id: KR4h0152_WYG_135-1a, span: [body, 0, 5478]}
+- ref:
+    seq: 135
+    marker_id: KR4h0152_WYG_135-1a
+    span:
+    - body
+    - 0
+    - 5478
   label: 卷一百三十五
   type: section
   level: 1
-- ref: {seq: 136, marker_id: KR4h0152_WYG_136-1a, span: [body, 0, 4398]}
+- ref:
+    seq: 136
+    marker_id: KR4h0152_WYG_136-1a
+    span:
+    - body
+    - 0
+    - 4398
   label: 卷一百三十六
   type: section
   level: 1
-- ref: {seq: 137, marker_id: KR4h0152_WYG_137-1a, span: [body, 0, 4646]}
+- ref:
+    seq: 137
+    marker_id: KR4h0152_WYG_137-1a
+    span:
+    - body
+    - 0
+    - 4646
   label: 卷一百三十七
   type: section
   level: 1
-- ref: {seq: 138, marker_id: KR4h0152_WYG_138-1a, span: [body, 0, 5976]}
+- ref:
+    seq: 138
+    marker_id: KR4h0152_WYG_138-1a
+    span:
+    - body
+    - 0
+    - 5976
   label: 卷一百三十八
   type: section
   level: 1
-- ref: {seq: 139, marker_id: KR4h0152_WYG_139-1a, span: [body, 0, 3472]}
+- ref:
+    seq: 139
+    marker_id: KR4h0152_WYG_139-1a
+    span:
+    - body
+    - 0
+    - 3472
   label: 卷一百三十九
   type: section
   level: 1
-- ref: {seq: 140, marker_id: KR4h0152_WYG_140-1a, span: [body, 0, 7355]}
+- ref:
+    seq: 140
+    marker_id: KR4h0152_WYG_140-1a
+    span:
+    - body
+    - 0
+    - 7355
   label: 卷一百四十
   type: section
   level: 1
-- ref: {seq: 141, marker_id: KR4h0152_WYG_141-1a, span: [body, 0, 964]}
+- ref:
+    seq: 141
+    marker_id: KR4h0152_WYG_141-1a
+    span:
+    - body
+    - 0
+    - 964
   label: 卷一百四十一
   type: section
   level: 1
-- ref: {seq: 142, marker_id: KR4h0152_WYG_142-1a, span: [body, 0, 5518]}
+- ref:
+    seq: 142
+    marker_id: KR4h0152_WYG_142-1a
+    span:
+    - body
+    - 0
+    - 5518
   label: 卷一百四十二
   type: section
   level: 1
-- ref: {seq: 143, marker_id: KR4h0152_WYG_143-1a, span: [body, 0, 6272]}
+- ref:
+    seq: 143
+    marker_id: KR4h0152_WYG_143-1a
+    span:
+    - body
+    - 0
+    - 6272
   label: 卷一百四十三
   type: section
   level: 1
-- ref: {seq: 144, marker_id: KR4h0152_WYG_144-1a, span: [body, 0, 4378]}
+- ref:
+    seq: 144
+    marker_id: KR4h0152_WYG_144-1a
+    span:
+    - body
+    - 0
+    - 4378
   label: 卷一百四十四
   type: section
   level: 1
-- ref: {seq: 145, marker_id: KR4h0152_WYG_145-1a, span: [body, 0, 2487]}
+- ref:
+    seq: 145
+    marker_id: KR4h0152_WYG_145-1a
+    span:
+    - body
+    - 0
+    - 2487
   label: 卷一百四十五
   type: section
   level: 1
-- ref: {seq: 146, marker_id: KR4h0152_WYG_146-1a, span: [body, 0, 2811]}
+- ref:
+    seq: 146
+    marker_id: KR4h0152_WYG_146-1a
+    span:
+    - body
+    - 0
+    - 2811
   label: 卷一百四十六
   type: section
   level: 1
-- ref: {seq: 147, marker_id: KR4h0152_WYG_147-1a, span: [body, 0, 6238]}
+- ref:
+    seq: 147
+    marker_id: KR4h0152_WYG_147-1a
+    span:
+    - body
+    - 0
+    - 6238
   label: 卷一百四十七
   type: section
   level: 1
-- ref: {seq: 148, marker_id: KR4h0152_WYG_148-1a, span: [body, 0, 2614]}
+- ref:
+    seq: 148
+    marker_id: KR4h0152_WYG_148-1a
+    span:
+    - body
+    - 0
+    - 2614
   label: 卷一百四十八
   type: section
   level: 1
-- ref: {seq: 149, marker_id: KR4h0152_WYG_149-1a, span: [body, 0, 10224]}
+- ref:
+    seq: 149
+    marker_id: KR4h0152_WYG_149-1a
+    span:
+    - body
+    - 0
+    - 10224
   label: 卷一百四十九
   type: section
   level: 1
-- ref: {seq: 150, marker_id: KR4h0152_WYG_150-1a, span: [body, 0, 10121]}
+- ref:
+    seq: 150
+    marker_id: KR4h0152_WYG_150-1a
+    span:
+    - body
+    - 0
+    - 10121
   label: 卷一百五十
   type: section
   level: 1
-- ref: {seq: 151, marker_id: KR4h0152_WYG_151-1a, span: [body, 0, 8971]}
+- ref:
+    seq: 151
+    marker_id: KR4h0152_WYG_151-1a
+    span:
+    - body
+    - 0
+    - 8971
   label: 卷一百五十一
   type: section
   level: 1
-- ref: {seq: 152, marker_id: KR4h0152_WYG_152-1a, span: [body, 0, 6703]}
+- ref:
+    seq: 152
+    marker_id: KR4h0152_WYG_152-1a
+    span:
+    - body
+    - 0
+    - 6703
   label: 卷一百五十二
   type: section
   level: 1
-- ref: {seq: 153, marker_id: KR4h0152_WYG_153-1a, span: [body, 0, 6885]}
+- ref:
+    seq: 153
+    marker_id: KR4h0152_WYG_153-1a
+    span:
+    - body
+    - 0
+    - 6885
   label: 卷一百五十三
   type: section
   level: 1
-- ref: {seq: 154, marker_id: KR4h0152_WYG_154-1a, span: [body, 0, 5133]}
+- ref:
+    seq: 154
+    marker_id: KR4h0152_WYG_154-1a
+    span:
+    - body
+    - 0
+    - 5133
   label: 卷一百五十四
   type: section
   level: 1
-- ref: {seq: 155, marker_id: KR4h0152_WYG_155-1a, span: [body, 0, 2687]}
+- ref:
+    seq: 155
+    marker_id: KR4h0152_WYG_155-1a
+    span:
+    - body
+    - 0
+    - 2687
   label: 卷一百五十五
   type: section
   level: 1
-- ref: {seq: 156, marker_id: KR4h0152_WYG_156-1a, span: [body, 0, 3790]}
+- ref:
+    seq: 156
+    marker_id: KR4h0152_WYG_156-1a
+    span:
+    - body
+    - 0
+    - 3790
   label: 卷一百五十六
   type: section
   level: 1
-- ref: {seq: 157, marker_id: KR4h0152_WYG_157-1a, span: [body, 0, 5868]}
+- ref:
+    seq: 157
+    marker_id: KR4h0152_WYG_157-1a
+    span:
+    - body
+    - 0
+    - 5868
   label: 卷一百五十七
   type: section
   level: 1
-- ref: {seq: 158, marker_id: KR4h0152_WYG_158-1a, span: [body, 0, 1234]}
+- ref:
+    seq: 158
+    marker_id: KR4h0152_WYG_158-1a
+    span:
+    - body
+    - 0
+    - 1234
   label: 卷一百五十八
   type: section
   level: 1
-- ref: {seq: 159, marker_id: KR4h0152_WYG_159-1a, span: [body, 0, 1593]}
+- ref:
+    seq: 159
+    marker_id: KR4h0152_WYG_159-1a
+    span:
+    - body
+    - 0
+    - 1593
   label: 卷一百五十九
   type: section
   level: 1
-- ref: {seq: 160, marker_id: KR4h0152_WYG_160-1a, span: [body, 0, 7490]}
+- ref:
+    seq: 160
+    marker_id: KR4h0152_WYG_160-1a
+    span:
+    - body
+    - 0
+    - 7490
   label: 卷一百六十
   type: section
   level: 1
-- ref: {seq: 161, marker_id: KR4h0152_WYG_161-1a, span: [body, 0, 4902]}
+- ref:
+    seq: 161
+    marker_id: KR4h0152_WYG_161-1a
+    span:
+    - body
+    - 0
+    - 4902
   label: 卷一百六十一
   type: section
   level: 1
-- ref: {seq: 162, marker_id: KR4h0152_WYG_162-1a, span: [body, 0, 952]}
+- ref:
+    seq: 162
+    marker_id: KR4h0152_WYG_162-1a
+    span:
+    - body
+    - 0
+    - 952
   label: 卷一百六十二
   type: section
   level: 1
-- ref: {seq: 163, marker_id: KR4h0152_WYG_163-1a, span: [body, 0, 10070]}
+- ref:
+    seq: 163
+    marker_id: KR4h0152_WYG_163-1a
+    span:
+    - body
+    - 0
+    - 10070
   label: 卷一百六十三
   type: section
   level: 1
-- ref: {seq: 164, marker_id: KR4h0152_WYG_164-1a, span: [body, 0, 9218]}
+- ref:
+    seq: 164
+    marker_id: KR4h0152_WYG_164-1a
+    span:
+    - body
+    - 0
+    - 9218
   label: 卷一百六十四
   type: section
   level: 1
-- ref: {seq: 165, marker_id: KR4h0152_WYG_165-1a, span: [body, 0, 9857]}
+- ref:
+    seq: 165
+    marker_id: KR4h0152_WYG_165-1a
+    span:
+    - body
+    - 0
+    - 9857
   label: 卷一百六十五
   type: section
   level: 1
-- ref: {seq: 166, marker_id: KR4h0152_WYG_166-1a, span: [body, 0, 8252]}
+- ref:
+    seq: 166
+    marker_id: KR4h0152_WYG_166-1a
+    span:
+    - body
+    - 0
+    - 8252
   label: 卷一百六十六
   type: section
   level: 1
-- ref: {seq: 167, marker_id: KR4h0152_WYG_167-1a, span: [body, 0, 4240]}
+- ref:
+    seq: 167
+    marker_id: KR4h0152_WYG_167-1a
+    span:
+    - body
+    - 0
+    - 4240
   label: 卷一百六十七
   type: section
   level: 1
-- ref: {seq: 168, marker_id: KR4h0152_WYG_168-1a, span: [body, 0, 7630]}
+- ref:
+    seq: 168
+    marker_id: KR4h0152_WYG_168-1a
+    span:
+    - body
+    - 0
+    - 7630
   label: 卷一百六十八
   type: section
   level: 1
-- ref: {seq: 169, marker_id: KR4h0152_WYG_169-1a, span: [body, 0, 4514]}
+- ref:
+    seq: 169
+    marker_id: KR4h0152_WYG_169-1a
+    span:
+    - body
+    - 0
+    - 4514
   label: 卷一百六十九
   type: section
   level: 1
-- ref: {seq: 170, marker_id: KR4h0152_WYG_170-1a, span: [body, 0, 1976]}
+- ref:
+    seq: 170
+    marker_id: KR4h0152_WYG_170-1a
+    span:
+    - body
+    - 0
+    - 1976
   label: 卷一百七十
   type: section
   level: 1
-- ref: {seq: 171, marker_id: KR4h0152_WYG_171-1a, span: [body, 0, 6896]}
+- ref:
+    seq: 171
+    marker_id: KR4h0152_WYG_171-1a
+    span:
+    - body
+    - 0
+    - 6896
   label: 卷一百七十一
   type: section
   level: 1
-- ref: {seq: 172, marker_id: KR4h0152_WYG_172-1a, span: [body, 0, 6269]}
+- ref:
+    seq: 172
+    marker_id: KR4h0152_WYG_172-1a
+    span:
+    - body
+    - 0
+    - 6269
   label: 卷一百七十二
   type: section
   level: 1
-- ref: {seq: 173, marker_id: KR4h0152_WYG_173-1a, span: [body, 0, 2913]}
+- ref:
+    seq: 173
+    marker_id: KR4h0152_WYG_173-1a
+    span:
+    - body
+    - 0
+    - 2913
   label: 卷一百七十三
   type: section
   level: 1
-- ref: {seq: 174, marker_id: KR4h0152_WYG_174-1a, span: [body, 0, 5958]}
+- ref:
+    seq: 174
+    marker_id: KR4h0152_WYG_174-1a
+    span:
+    - body
+    - 0
+    - 5958
   label: 卷一百七十四
   type: section
   level: 1
-- ref: {seq: 175, marker_id: KR4h0152_WYG_175-1a, span: [body, 0, 4653]}
+- ref:
+    seq: 175
+    marker_id: KR4h0152_WYG_175-1a
+    span:
+    - body
+    - 0
+    - 4653
   label: 卷一百七十五
   type: section
   level: 1
-- ref: {seq: 176, marker_id: KR4h0152_WYG_176-1a, span: [body, 0, 2723]}
+- ref:
+    seq: 176
+    marker_id: KR4h0152_WYG_176-1a
+    span:
+    - body
+    - 0
+    - 2723
   label: 卷一百七十六
   type: section
   level: 1
-- ref: {seq: 177, marker_id: KR4h0152_WYG_177-1a, span: [body, 0, 1292]}
+- ref:
+    seq: 177
+    marker_id: KR4h0152_WYG_177-1a
+    span:
+    - body
+    - 0
+    - 1292
   label: 卷一百七十七
   type: section
   level: 1
-- ref: {seq: 178, marker_id: KR4h0152_WYG_178-1a, span: [body, 0, 10441]}
+- ref:
+    seq: 178
+    marker_id: KR4h0152_WYG_178-1a
+    span:
+    - body
+    - 0
+    - 10441
   label: 卷一百七十八
   type: section
   level: 1
-- ref: {seq: 179, marker_id: KR4h0152_WYG_179-1a, span: [body, 0, 2924]}
+- ref:
+    seq: 179
+    marker_id: KR4h0152_WYG_179-1a
+    span:
+    - body
+    - 0
+    - 2924
   label: 卷一百七十九
   type: section
   level: 1
-- ref: {seq: 180, marker_id: KR4h0152_WYG_180-1a, span: [body, 0, 9349]}
+- ref:
+    seq: 180
+    marker_id: KR4h0152_WYG_180-1a
+    span:
+    - body
+    - 0
+    - 9349
   label: 卷一百八十
   type: section
   level: 1
-- ref: {seq: 181, marker_id: KR4h0152_WYG_181-1a, span: [body, 0, 3302]}
+- ref:
+    seq: 181
+    marker_id: KR4h0152_WYG_181-1a
+    span:
+    - body
+    - 0
+    - 3302
   label: 卷一百八十一
   type: section
   level: 1
-- ref: {seq: 182, marker_id: KR4h0152_WYG_182-1a, span: [body, 0, 8288]}
+- ref:
+    seq: 182
+    marker_id: KR4h0152_WYG_182-1a
+    span:
+    - body
+    - 0
+    - 8288
   label: 卷一百八十二
   type: section
   level: 1
-- ref: {seq: 183, marker_id: KR4h0152_WYG_183-1a, span: [body, 0, 6697]}
+- ref:
+    seq: 183
+    marker_id: KR4h0152_WYG_183-1a
+    span:
+    - body
+    - 0
+    - 6697
   label: 卷一百八十三
   type: section
   level: 1
-- ref: {seq: 184, marker_id: KR4h0152_WYG_184-1a, span: [body, 0, 2462]}
+- ref:
+    seq: 184
+    marker_id: KR4h0152_WYG_184-1a
+    span:
+    - body
+    - 0
+    - 2462
   label: 卷一百八十四
   type: section
   level: 1
-- ref: {seq: 185, marker_id: KR4h0152_WYG_185-1a, span: [body, 0, 1267]}
+- ref:
+    seq: 185
+    marker_id: KR4h0152_WYG_185-1a
+    span:
+    - body
+    - 0
+    - 1267
   label: 卷一百八十五
   type: section
   level: 1
-- ref: {seq: 186, marker_id: KR4h0152_WYG_186-1a, span: [body, 0, 3444]}
+- ref:
+    seq: 186
+    marker_id: KR4h0152_WYG_186-1a
+    span:
+    - body
+    - 0
+    - 3444
   label: 卷一百八十六
   type: section
   level: 1
-- ref: {seq: 187, marker_id: KR4h0152_WYG_187-1a, span: [body, 0, 6220]}
+- ref:
+    seq: 187
+    marker_id: KR4h0152_WYG_187-1a
+    span:
+    - body
+    - 0
+    - 6220
   label: 卷一百八十七
   type: section
   level: 1
-- ref: {seq: 188, marker_id: KR4h0152_WYG_188-1a, span: [body, 0, 4251]}
+- ref:
+    seq: 188
+    marker_id: KR4h0152_WYG_188-1a
+    span:
+    - body
+    - 0
+    - 4251
   label: 卷一百八十八
   type: section
   level: 1
-- ref: {seq: 189, marker_id: KR4h0152_WYG_189-1a, span: [body, 0, 3792]}
+- ref:
+    seq: 189
+    marker_id: KR4h0152_WYG_189-1a
+    span:
+    - body
+    - 0
+    - 3792
   label: 卷一百八十九
   type: section
   level: 1
-- ref: {seq: 190, marker_id: KR4h0152_WYG_190-1a, span: [body, 0, 1759]}
+- ref:
+    seq: 190
+    marker_id: KR4h0152_WYG_190-1a
+    span:
+    - body
+    - 0
+    - 1759
   label: 卷一百九十
   type: section
   level: 1
-- ref: {seq: 191, marker_id: KR4h0152_WYG_191-1a, span: [body, 0, 1852]}
+- ref:
+    seq: 191
+    marker_id: KR4h0152_WYG_191-1a
+    span:
+    - body
+    - 0
+    - 1852
   label: 卷一百九十一
   type: section
   level: 1
-- ref: {seq: 192, marker_id: KR4h0152_WYG_192-1a, span: [body, 0, 3944]}
+- ref:
+    seq: 192
+    marker_id: KR4h0152_WYG_192-1a
+    span:
+    - body
+    - 0
+    - 3944
   label: 卷一百九十二
   type: section
   level: 1
-- ref: {seq: 193, marker_id: KR4h0152_WYG_193-1a, span: [body, 0, 3973]}
+- ref:
+    seq: 193
+    marker_id: KR4h0152_WYG_193-1a
+    span:
+    - body
+    - 0
+    - 3973
   label: 卷一百九十三
   type: section
   level: 1
-- ref: {seq: 194, marker_id: KR4h0152_WYG_194-1a, span: [body, 0, 7375]}
+- ref:
+    seq: 194
+    marker_id: KR4h0152_WYG_194-1a
+    span:
+    - body
+    - 0
+    - 7375
   label: 卷一百九十四
   type: section
   level: 1
-- ref: {seq: 195, marker_id: KR4h0152_WYG_195-1a, span: [body, 0, 8772]}
+- ref:
+    seq: 195
+    marker_id: KR4h0152_WYG_195-1a
+    span:
+    - body
+    - 0
+    - 8772
   label: 卷一百九十五
   type: section
   level: 1
-- ref: {seq: 196, marker_id: KR4h0152_WYG_196-1a, span: [body, 0, 8740]}
+- ref:
+    seq: 196
+    marker_id: KR4h0152_WYG_196-1a
+    span:
+    - body
+    - 0
+    - 8740
   label: 卷一百九十六
   type: section
   level: 1
-- ref: {seq: 197, marker_id: KR4h0152_WYG_197-1a, span: [body, 0, 7454]}
+- ref:
+    seq: 197
+    marker_id: KR4h0152_WYG_197-1a
+    span:
+    - body
+    - 0
+    - 7454
   label: 卷一百九十七
   type: section
   level: 1
-- ref: {seq: 198, marker_id: KR4h0152_WYG_198-1a, span: [body, 0, 4747]}
+- ref:
+    seq: 198
+    marker_id: KR4h0152_WYG_198-1a
+    span:
+    - body
+    - 0
+    - 4747
   label: 卷一百九十八
   type: section
   level: 1
-- ref: {seq: 199, marker_id: KR4h0152_WYG_199-1a, span: [body, 0, 10416]}
+- ref:
+    seq: 199
+    marker_id: KR4h0152_WYG_199-1a
+    span:
+    - body
+    - 0
+    - 10416
   label: 卷一百九十九
   type: section
   level: 1
-- ref: {seq: 200, marker_id: KR4h0152_WYG_200-1a, span: [body, 0, 7500]}
+- ref:
+    seq: 200
+    marker_id: KR4h0152_WYG_200-1a
+    span:
+    - body
+    - 0
+    - 7500
   label: 卷二百
   type: section
   level: 1
-- ref: {seq: 201, marker_id: KR4h0152_WYG_201-1a, span: [body, 0, 1524]}
+- ref:
+    seq: 201
+    marker_id: KR4h0152_WYG_201-1a
+    span:
+    - body
+    - 0
+    - 1524
   label: 卷二百一
   type: section
   level: 1
-- ref: {seq: 202, marker_id: KR4h0152_WYG_202-1a, span: [body, 0, 7375]}
+- ref:
+    seq: 202
+    marker_id: KR4h0152_WYG_202-1a
+    span:
+    - body
+    - 0
+    - 7375
   label: 卷二百二
   type: section
   level: 1
-- ref: {seq: 203, marker_id: KR4h0152_WYG_203-1a, span: [body, 0, 3724]}
+- ref:
+    seq: 203
+    marker_id: KR4h0152_WYG_203-1a
+    span:
+    - body
+    - 0
+    - 3724
   label: 卷二百三
   type: section
   level: 1
-- ref: {seq: 204, marker_id: KR4h0152_WYG_204-1a, span: [body, 0, 16901]}
+- ref:
+    seq: 204
+    marker_id: KR4h0152_WYG_204-1a
+    span:
+    - body
+    - 0
+    - 16901
   label: 卷二百四
   type: section
   level: 1
-- ref: {seq: 205, marker_id: KR4h0152_WYG_205-1a, span: [body, 0, 8196]}
+- ref:
+    seq: 205
+    marker_id: KR4h0152_WYG_205-1a
+    span:
+    - body
+    - 0
+    - 8196
   label: 卷二百五
   type: section
   level: 1
-- ref: {seq: 206, marker_id: KR4h0152_WYG_206-1a, span: [body, 0, 4940]}
+- ref:
+    seq: 206
+    marker_id: KR4h0152_WYG_206-1a
+    span:
+    - body
+    - 0
+    - 4940
   label: 卷二百六
   type: section
   level: 1
-- ref: {seq: 207, marker_id: KR4h0152_WYG_207-1a, span: [body, 0, 3626]}
+- ref:
+    seq: 207
+    marker_id: KR4h0152_WYG_207-1a
+    span:
+    - body
+    - 0
+    - 3626
   label: 卷二百七
   type: section
   level: 1
-- ref: {seq: 208, marker_id: KR4h0152_WYG_208-1a, span: [body, 0, 7505]}
+- ref:
+    seq: 208
+    marker_id: KR4h0152_WYG_208-1a
+    span:
+    - body
+    - 0
+    - 7505
   label: 卷二百八
   type: section
   level: 1
-- ref: {seq: 209, marker_id: KR4h0152_WYG_209-1a, span: [body, 0, 8505]}
+- ref:
+    seq: 209
+    marker_id: KR4h0152_WYG_209-1a
+    span:
+    - body
+    - 0
+    - 8505
   label: 卷二百九
   type: section
   level: 1
-- ref: {seq: 210, marker_id: KR4h0152_WYG_210-1a, span: [body, 0, 11751]}
+- ref:
+    seq: 210
+    marker_id: KR4h0152_WYG_210-1a
+    span:
+    - body
+    - 0
+    - 11751
   label: 卷二百十
   type: section
   level: 1
-- ref: {seq: 211, marker_id: KR4h0152_WYG_211-1a, span: [body, 0, 5564]}
+- ref:
+    seq: 211
+    marker_id: KR4h0152_WYG_211-1a
+    span:
+    - body
+    - 0
+    - 5564
   label: 卷二百十一
   type: section
   level: 1
-- ref: {seq: 212, marker_id: KR4h0152_WYG_212-1a, span: [body, 0, 12972]}
+- ref:
+    seq: 212
+    marker_id: KR4h0152_WYG_212-1a
+    span:
+    - body
+    - 0
+    - 12972
   label: 卷二百十二
   type: section
   level: 1
-- ref: {seq: 213, marker_id: KR4h0152_WYG_213-1a, span: [body, 0, 8270]}
+- ref:
+    seq: 213
+    marker_id: KR4h0152_WYG_213-1a
+    span:
+    - body
+    - 0
+    - 8270
   label: 卷二百十三
   type: section
   level: 1
-- ref: {seq: 214, marker_id: KR4h0152_WYG_214-1a, span: [body, 0, 2720]}
+- ref:
+    seq: 214
+    marker_id: KR4h0152_WYG_214-1a
+    span:
+    - body
+    - 0
+    - 2720
   label: 卷二百十四
   type: section
   level: 1
-- ref: {seq: 215, marker_id: KR4h0152_WYG_215-1a, span: [body, 0, 10587]}
+- ref:
+    seq: 215
+    marker_id: KR4h0152_WYG_215-1a
+    span:
+    - body
+    - 0
+    - 10587
   label: 卷二百十五
   type: section
   level: 1
-- ref: {seq: 216, marker_id: KR4h0152_WYG_216-1a, span: [body, 0, 7722]}
+- ref:
+    seq: 216
+    marker_id: KR4h0152_WYG_216-1a
+    span:
+    - body
+    - 0
+    - 7722
   label: 卷二百十六
   type: section
   level: 1
-- ref: {seq: 217, marker_id: KR4h0152_WYG_217-1a, span: [body, 0, 6564]}
+- ref:
+    seq: 217
+    marker_id: KR4h0152_WYG_217-1a
+    span:
+    - body
+    - 0
+    - 6564
   label: 卷二百十七
   type: section
   level: 1
-- ref: {seq: 218, marker_id: KR4h0152_WYG_218-1a, span: [body, 0, 5023]}
+- ref:
+    seq: 218
+    marker_id: KR4h0152_WYG_218-1a
+    span:
+    - body
+    - 0
+    - 5023
   label: 卷二百十八
   type: section
   level: 1
-- ref: {seq: 219, marker_id: KR4h0152_WYG_219-1a, span: [body, 0, 6116]}
+- ref:
+    seq: 219
+    marker_id: KR4h0152_WYG_219-1a
+    span:
+    - body
+    - 0
+    - 6116
   label: 卷二百十九
   type: section
   level: 1
-- ref: {seq: 220, marker_id: KR4h0152_WYG_220-1a, span: [body, 0, 6169]}
+- ref:
+    seq: 220
+    marker_id: KR4h0152_WYG_220-1a
+    span:
+    - body
+    - 0
+    - 6169
   label: 卷二百二十
   type: section
   level: 1
-- ref: {seq: 221, marker_id: KR4h0152_WYG_221-1a, span: [body, 0, 12590]}
+- ref:
+    seq: 221
+    marker_id: KR4h0152_WYG_221-1a
+    span:
+    - body
+    - 0
+    - 12590
   label: 卷二百二十一
   type: section
   level: 1
-- ref: {seq: 222, marker_id: KR4h0152_WYG_222-1a, span: [body, 0, 12643]}
+- ref:
+    seq: 222
+    marker_id: KR4h0152_WYG_222-1a
+    span:
+    - body
+    - 0
+    - 12643
   label: 卷二百二十二
   type: section
   level: 1
-- ref: {seq: 223, marker_id: KR4h0152_WYG_223-1a, span: [body, 0, 6860]}
+- ref:
+    seq: 223
+    marker_id: KR4h0152_WYG_223-1a
+    span:
+    - body
+    - 0
+    - 6860
   label: 卷二百二十三
   type: section
   level: 1
-- ref: {seq: 224, marker_id: KR4h0152_WYG_224-1a, span: [body, 0, 1789]}
+- ref:
+    seq: 224
+    marker_id: KR4h0152_WYG_224-1a
+    span:
+    - body
+    - 0
+    - 1789
   label: 卷二百二十四
   type: section
   level: 1
-- ref: {seq: 225, marker_id: KR4h0152_WYG_225-1a, span: [body, 0, 9012]}
+- ref:
+    seq: 225
+    marker_id: KR4h0152_WYG_225-1a
+    span:
+    - body
+    - 0
+    - 9012
   label: 卷二百二十五
   type: section
   level: 1
-- ref: {seq: 226, marker_id: KR4h0152_WYG_226-1a, span: [body, 0, 9366]}
+- ref:
+    seq: 226
+    marker_id: KR4h0152_WYG_226-1a
+    span:
+    - body
+    - 0
+    - 9366
   label: 卷二百二十六
   type: section
   level: 1
-- ref: {seq: 227, marker_id: KR4h0152_WYG_227-1a, span: [body, 0, 3321]}
+- ref:
+    seq: 227
+    marker_id: KR4h0152_WYG_227-1a
+    span:
+    - body
+    - 0
+    - 3321
   label: 卷二百二十七
   type: section
   level: 1
-- ref: {seq: 228, marker_id: KR4h0152_WYG_228-1a, span: [body, 0, 1928]}
+- ref:
+    seq: 228
+    marker_id: KR4h0152_WYG_228-1a
+    span:
+    - body
+    - 0
+    - 1928
   label: 卷二百二十八
   type: section
   level: 1
-- ref: {seq: 229, marker_id: KR4h0152_WYG_229-1a, span: [body, 0, 4794]}
+- ref:
+    seq: 229
+    marker_id: KR4h0152_WYG_229-1a
+    span:
+    - body
+    - 0
+    - 4794
   label: 卷二百二十九
   type: section
   level: 1
-- ref: {seq: 230, marker_id: KR4h0152_WYG_230-1a, span: [body, 0, 3637]}
+- ref:
+    seq: 230
+    marker_id: KR4h0152_WYG_230-1a
+    span:
+    - body
+    - 0
+    - 3637
   label: 卷二百三十
   type: section
   level: 1
-- ref: {seq: 231, marker_id: KR4h0152_WYG_231-1a, span: [body, 0, 2219]}
+- ref:
+    seq: 231
+    marker_id: KR4h0152_WYG_231-1a
+    span:
+    - body
+    - 0
+    - 2219
   label: 卷二百三十一
   type: section
   level: 1
-- ref: {seq: 232, marker_id: KR4h0152_WYG_232-1a, span: [body, 0, 1914]}
+- ref:
+    seq: 232
+    marker_id: KR4h0152_WYG_232-1a
+    span:
+    - body
+    - 0
+    - 1914
   label: 卷二百三十二
   type: section
   level: 1
-- ref: {seq: 233, marker_id: KR4h0152_WYG_233-1a, span: [body, 0, 6791]}
+- ref:
+    seq: 233
+    marker_id: KR4h0152_WYG_233-1a
+    span:
+    - body
+    - 0
+    - 6791
   label: 卷二百三十三
   type: section
   level: 1
-- ref: {seq: 234, marker_id: KR4h0152_WYG_234-1a, span: [body, 0, 8934]}
+- ref:
+    seq: 234
+    marker_id: KR4h0152_WYG_234-1a
+    span:
+    - body
+    - 0
+    - 8934
   label: 卷二百三十四
   type: section
   level: 1
-- ref: {seq: 235, marker_id: KR4h0152_WYG_235-1a, span: [body, 0, 6941]}
+- ref:
+    seq: 235
+    marker_id: KR4h0152_WYG_235-1a
+    span:
+    - body
+    - 0
+    - 6941
   label: 卷二百三十五
   type: section
   level: 1
-- ref: {seq: 236, marker_id: KR4h0152_WYG_236-1a, span: [body, 0, 8009]}
+- ref:
+    seq: 236
+    marker_id: KR4h0152_WYG_236-1a
+    span:
+    - body
+    - 0
+    - 8009
   label: 卷二百三十六
   type: section
   level: 1
-- ref: {seq: 237, marker_id: KR4h0152_WYG_237-1a, span: [body, 0, 8182]}
+- ref:
+    seq: 237
+    marker_id: KR4h0152_WYG_237-1a
+    span:
+    - body
+    - 0
+    - 8182
   label: 卷二百三十七
   type: section
   level: 1
-- ref: {seq: 238, marker_id: KR4h0152_WYG_238-1a, span: [body, 0, 6435]}
+- ref:
+    seq: 238
+    marker_id: KR4h0152_WYG_238-1a
+    span:
+    - body
+    - 0
+    - 6435
   label: 卷二百三十八
   type: section
   level: 1
-- ref: {seq: 239, marker_id: KR4h0152_WYG_239-1a, span: [body, 0, 2381]}
+- ref:
+    seq: 239
+    marker_id: KR4h0152_WYG_239-1a
+    span:
+    - body
+    - 0
+    - 2381
   label: 卷二百三十九
   type: section
   level: 1
-- ref: {seq: 240, marker_id: KR4h0152_WYG_240-1a, span: [body, 0, 9711]}
+- ref:
+    seq: 240
+    marker_id: KR4h0152_WYG_240-1a
+    span:
+    - body
+    - 0
+    - 9711
   label: 卷二百四十
   type: section
   level: 1
-- ref: {seq: 241, marker_id: KR4h0152_WYG_241-1a, span: [body, 0, 5276]}
+- ref:
+    seq: 241
+    marker_id: KR4h0152_WYG_241-1a
+    span:
+    - body
+    - 0
+    - 5276
   label: 卷二百四十一
   type: section
   level: 1
-- ref: {seq: 242, marker_id: KR4h0152_WYG_242-1a, span: [body, 0, 13786]}
+- ref:
+    seq: 242
+    marker_id: KR4h0152_WYG_242-1a
+    span:
+    - body
+    - 0
+    - 13786
   label: 卷二百四十二
   type: section
   level: 1
-- ref: {seq: 243, marker_id: KR4h0152_WYG_243-1a, span: [body, 0, 5800]}
+- ref:
+    seq: 243
+    marker_id: KR4h0152_WYG_243-1a
+    span:
+    - body
+    - 0
+    - 5800
   label: 卷二百四十三
   type: section
   level: 1
-- ref: {seq: 244, marker_id: KR4h0152_WYG_244-1a, span: [body, 0, 9097]}
+- ref:
+    seq: 244
+    marker_id: KR4h0152_WYG_244-1a
+    span:
+    - body
+    - 0
+    - 9097
   label: 卷二百四十四
   type: section
   level: 1
-- ref: {seq: 245, marker_id: KR4h0152_WYG_245-1a, span: [body, 0, 8371]}
+- ref:
+    seq: 245
+    marker_id: KR4h0152_WYG_245-1a
+    span:
+    - body
+    - 0
+    - 8371
   label: 卷二百四十五
   type: section
   level: 1
-- ref: {seq: 246, marker_id: KR4h0152_WYG_246-1a, span: [body, 0, 7485]}
+- ref:
+    seq: 246
+    marker_id: KR4h0152_WYG_246-1a
+    span:
+    - body
+    - 0
+    - 7485
   label: 卷二百四十六
   type: section
   level: 1
-- ref: {seq: 247, marker_id: KR4h0152_WYG_247-1a, span: [body, 0, 8527]}
+- ref:
+    seq: 247
+    marker_id: KR4h0152_WYG_247-1a
+    span:
+    - body
+    - 0
+    - 8527
   label: 卷二百四十七
   type: section
   level: 1
-- ref: {seq: 248, marker_id: KR4h0152_WYG_248-1a, span: [body, 0, 10567]}
+- ref:
+    seq: 248
+    marker_id: KR4h0152_WYG_248-1a
+    span:
+    - body
+    - 0
+    - 10567
   label: 卷二百四十八
   type: section
   level: 1
-- ref: {seq: 249, marker_id: KR4h0152_WYG_249-1a, span: [body, 0, 3098]}
+- ref:
+    seq: 249
+    marker_id: KR4h0152_WYG_249-1a
+    span:
+    - body
+    - 0
+    - 3098
   label: 卷二百四十九
   type: section
   level: 1
-- ref: {seq: 250, marker_id: KR4h0152_WYG_250-1a, span: [body, 0, 3406]}
+- ref:
+    seq: 250
+    marker_id: KR4h0152_WYG_250-1a
+    span:
+    - body
+    - 0
+    - 3406
   label: 卷二百五十
   type: section
   level: 1
-- ref: {seq: 251, marker_id: KR4h0152_WYG_251-1a, span: [body, 0, 2901]}
+- ref:
+    seq: 251
+    marker_id: KR4h0152_WYG_251-1a
+    span:
+    - body
+    - 0
+    - 2901
   label: 卷二百五十一
   type: section
   level: 1
-- ref: {seq: 252, marker_id: KR4h0152_WYG_252-1a, span: [body, 0, 2592]}
+- ref:
+    seq: 252
+    marker_id: KR4h0152_WYG_252-1a
+    span:
+    - body
+    - 0
+    - 2592
   label: 卷二百五十二
   type: section
   level: 1
-- ref: {seq: 253, marker_id: KR4h0152_WYG_253-1a, span: [body, 0, 3054]}
+- ref:
+    seq: 253
+    marker_id: KR4h0152_WYG_253-1a
+    span:
+    - body
+    - 0
+    - 3054
   label: 卷二百五十三
   type: section
   level: 1
-- ref: {seq: 254, marker_id: KR4h0152_WYG_254-1a, span: [body, 0, 1930]}
+- ref:
+    seq: 254
+    marker_id: KR4h0152_WYG_254-1a
+    span:
+    - body
+    - 0
+    - 1930
   label: 卷二百五十四
   type: section
   level: 1
-- ref: {seq: 255, marker_id: KR4h0152_WYG_255-1a, span: [body, 0, 1979]}
+- ref:
+    seq: 255
+    marker_id: KR4h0152_WYG_255-1a
+    span:
+    - body
+    - 0
+    - 1979
   label: 卷二百五十五
   type: section
   level: 1
-- ref: {seq: 256, marker_id: KR4h0152_WYG_256-1a, span: [body, 0, 7032]}
+- ref:
+    seq: 256
+    marker_id: KR4h0152_WYG_256-1a
+    span:
+    - body
+    - 0
+    - 7032
   label: 卷二百五十六
   type: section
   level: 1
-- ref: {seq: 257, marker_id: KR4h0152_WYG_257-1a, span: [body, 0, 6214]}
+- ref:
+    seq: 257
+    marker_id: KR4h0152_WYG_257-1a
+    span:
+    - body
+    - 0
+    - 6214
   label: 卷二百五十七
   type: section
   level: 1
-- ref: {seq: 258, marker_id: KR4h0152_WYG_258-1a, span: [body, 0, 7180]}
+- ref:
+    seq: 258
+    marker_id: KR4h0152_WYG_258-1a
+    span:
+    - body
+    - 0
+    - 7180
   label: 卷二百五十八
   type: section
   level: 1
-- ref: {seq: 259, marker_id: KR4h0152_WYG_259-1a, span: [body, 0, 6987]}
+- ref:
+    seq: 259
+    marker_id: KR4h0152_WYG_259-1a
+    span:
+    - body
+    - 0
+    - 6987
   label: 卷二百五十九
   type: section
   level: 1
-- ref: {seq: 260, marker_id: KR4h0152_WYG_260-1a, span: [body, 0, 5893]}
+- ref:
+    seq: 260
+    marker_id: KR4h0152_WYG_260-1a
+    span:
+    - body
+    - 0
+    - 5893
   label: 卷二百六十
   type: section
   level: 1
-- ref: {seq: 261, marker_id: KR4h0152_WYG_261-1a, span: [body, 0, 6674]}
+- ref:
+    seq: 261
+    marker_id: KR4h0152_WYG_261-1a
+    span:
+    - body
+    - 0
+    - 6674
   label: 卷二百六十一
   type: section
   level: 1
-- ref: {seq: 262, marker_id: KR4h0152_WYG_262-1a, span: [body, 0, 7019]}
+- ref:
+    seq: 262
+    marker_id: KR4h0152_WYG_262-1a
+    span:
+    - body
+    - 0
+    - 7019
   label: 卷二百六十二
   type: section
   level: 1
-- ref: {seq: 263, marker_id: KR4h0152_WYG_263-1a, span: [body, 0, 8605]}
+- ref:
+    seq: 263
+    marker_id: KR4h0152_WYG_263-1a
+    span:
+    - body
+    - 0
+    - 8605
   label: 卷二百六十三
   type: section
   level: 1
-- ref: {seq: 264, marker_id: KR4h0152_WYG_264-1a, span: [body, 0, 4355]}
+- ref:
+    seq: 264
+    marker_id: KR4h0152_WYG_264-1a
+    span:
+    - body
+    - 0
+    - 4355
   label: 卷二百六十四
   type: section
   level: 1
-- ref: {seq: 265, marker_id: KR4h0152_WYG_265-1a, span: [body, 0, 3484]}
+- ref:
+    seq: 265
+    marker_id: KR4h0152_WYG_265-1a
+    span:
+    - body
+    - 0
+    - 3484
   label: 卷二百六十五
   type: section
   level: 1
-- ref: {seq: 266, marker_id: KR4h0152_WYG_266-1a, span: [body, 0, 3360]}
+- ref:
+    seq: 266
+    marker_id: KR4h0152_WYG_266-1a
+    span:
+    - body
+    - 0
+    - 3360
   label: 卷二百六十六
   type: section
   level: 1
-- ref: {seq: 267, marker_id: KR4h0152_WYG_267-1a, span: [body, 0, 1342]}
+- ref:
+    seq: 267
+    marker_id: KR4h0152_WYG_267-1a
+    span:
+    - body
+    - 0
+    - 1342
   label: 卷二百六十七
   type: section
   level: 1
-- ref: {seq: 268, marker_id: KR4h0152_WYG_268-1a, span: [body, 0, 6689]}
+- ref:
+    seq: 268
+    marker_id: KR4h0152_WYG_268-1a
+    span:
+    - body
+    - 0
+    - 6689
   label: 卷二百六十八
   type: section
   level: 1
-- ref: {seq: 269, marker_id: KR4h0152_WYG_269-1a, span: [body, 0, 9064]}
+- ref:
+    seq: 269
+    marker_id: KR4h0152_WYG_269-1a
+    span:
+    - body
+    - 0
+    - 9064
   label: 卷二百六十九
   type: section
   level: 1
-- ref: {seq: 270, marker_id: KR4h0152_WYG_270-1a, span: [body, 0, 3611]}
+- ref:
+    seq: 270
+    marker_id: KR4h0152_WYG_270-1a
+    span:
+    - body
+    - 0
+    - 3611
   label: 卷二百七十
   type: section
   level: 1
-- ref: {seq: 271, marker_id: KR4h0152_WYG_271-1a, span: [body, 0, 2602]}
+- ref:
+    seq: 271
+    marker_id: KR4h0152_WYG_271-1a
+    span:
+    - body
+    - 0
+    - 2602
   label: 卷二百七十一
   type: section
   level: 1
-- ref: {seq: 272, marker_id: KR4h0152_WYG_272-1a, span: [body, 0, 956]}
+- ref:
+    seq: 272
+    marker_id: KR4h0152_WYG_272-1a
+    span:
+    - body
+    - 0
+    - 956
   label: 卷二百七十二
   type: section
   level: 1
-- ref: {seq: 273, marker_id: KR4h0152_WYG_273-1a, span: [body, 0, 1334]}
+- ref:
+    seq: 273
+    marker_id: KR4h0152_WYG_273-1a
+    span:
+    - body
+    - 0
+    - 1334
   label: 卷二百七十三
   type: section
   level: 1
-- ref: {seq: 274, marker_id: KR4h0152_WYG_274-1a, span: [body, 0, 1723]}
+- ref:
+    seq: 274
+    marker_id: KR4h0152_WYG_274-1a
+    span:
+    - body
+    - 0
+    - 1723
   label: 卷二百七十四
   type: section
   level: 1
-- ref: {seq: 275, marker_id: KR4h0152_WYG_275-1a, span: [body, 0, 404]}
+- ref:
+    seq: 275
+    marker_id: KR4h0152_WYG_275-1a
+    span:
+    - body
+    - 0
+    - 404
   label: 卷二百七十五
   type: section
   level: 1
-- ref: {seq: 276, marker_id: KR4h0152_WYG_276-1a, span: [body, 0, 704]}
+- ref:
+    seq: 276
+    marker_id: KR4h0152_WYG_276-1a
+    span:
+    - body
+    - 0
+    - 704
   label: 卷二百七十六
   type: section
   level: 1
-- ref: {seq: 277, marker_id: KR4h0152_WYG_277-1a, span: [body, 0, 3047]}
+- ref:
+    seq: 277
+    marker_id: KR4h0152_WYG_277-1a
+    span:
+    - body
+    - 0
+    - 3047
   label: 卷二百七十七
   type: section
   level: 1
-- ref: {seq: 278, marker_id: KR4h0152_WYG_278-1a, span: [body, 0, 6148]}
+- ref:
+    seq: 278
+    marker_id: KR4h0152_WYG_278-1a
+    span:
+    - body
+    - 0
+    - 6148
   label: 卷二百七十八
   type: section
   level: 1
-- ref: {seq: 279, marker_id: KR4h0152_WYG_279-1a, span: [body, 0, 6967]}
+- ref:
+    seq: 279
+    marker_id: KR4h0152_WYG_279-1a
+    span:
+    - body
+    - 0
+    - 6967
   label: 卷二百七十九
   type: section
   level: 1
-- ref: {seq: 280, marker_id: KR4h0152_WYG_280-1a, span: [body, 0, 7064]}
+- ref:
+    seq: 280
+    marker_id: KR4h0152_WYG_280-1a
+    span:
+    - body
+    - 0
+    - 7064
   label: 卷二百八十
   type: section
   level: 1
-- ref: {seq: 281, marker_id: KR4h0152_WYG_281-1a, span: [body, 0, 7511]}
+- ref:
+    seq: 281
+    marker_id: KR4h0152_WYG_281-1a
+    span:
+    - body
+    - 0
+    - 7511
   label: 卷二百八十一
   type: section
   level: 1
-- ref: {seq: 282, marker_id: KR4h0152_WYG_282-1a, span: [body, 0, 6838]}
+- ref:
+    seq: 282
+    marker_id: KR4h0152_WYG_282-1a
+    span:
+    - body
+    - 0
+    - 6838
   label: 卷二百八十二
   type: section
   level: 1
-- ref: {seq: 283, marker_id: KR4h0152_WYG_283-1a, span: [body, 0, 8081]}
+- ref:
+    seq: 283
+    marker_id: KR4h0152_WYG_283-1a
+    span:
+    - body
+    - 0
+    - 8081
   label: 卷二百八十三
   type: section
   level: 1
-- ref: {seq: 284, marker_id: KR4h0152_WYG_284-1a, span: [body, 0, 3804]}
+- ref:
+    seq: 284
+    marker_id: KR4h0152_WYG_284-1a
+    span:
+    - body
+    - 0
+    - 3804
   label: 卷二百八十四
   type: section
   level: 1
-- ref: {seq: 285, marker_id: KR4h0152_WYG_285-1a, span: [body, 0, 8380]}
+- ref:
+    seq: 285
+    marker_id: KR4h0152_WYG_285-1a
+    span:
+    - body
+    - 0
+    - 8380
   label: 卷二百八十五
   type: section
   level: 1
-- ref: {seq: 286, marker_id: KR4h0152_WYG_286-1a, span: [body, 0, 6201]}
+- ref:
+    seq: 286
+    marker_id: KR4h0152_WYG_286-1a
+    span:
+    - body
+    - 0
+    - 6201
   label: 卷二百八十六
   type: section
   level: 1
-- ref: {seq: 287, marker_id: KR4h0152_WYG_287-1a, span: [body, 0, 6437]}
+- ref:
+    seq: 287
+    marker_id: KR4h0152_WYG_287-1a
+    span:
+    - body
+    - 0
+    - 6437
   label: 卷二百八十七
   type: section
   level: 1
-- ref: {seq: 288, marker_id: KR4h0152_WYG_288-1a, span: [body, 0, 7655]}
+- ref:
+    seq: 288
+    marker_id: KR4h0152_WYG_288-1a
+    span:
+    - body
+    - 0
+    - 7655
   label: 卷二百八十八
   type: section
   level: 1
-- ref: {seq: 289, marker_id: KR4h0152_WYG_289-1a, span: [body, 0, 6168]}
+- ref:
+    seq: 289
+    marker_id: KR4h0152_WYG_289-1a
+    span:
+    - body
+    - 0
+    - 6168
   label: 卷二百八十九
   type: section
   level: 1
-- ref: {seq: 290, marker_id: KR4h0152_WYG_290-1a, span: [body, 0, 6472]}
+- ref:
+    seq: 290
+    marker_id: KR4h0152_WYG_290-1a
+    span:
+    - body
+    - 0
+    - 6472
   label: 卷二百九十
   type: section
   level: 1
-- ref: {seq: 291, marker_id: KR4h0152_WYG_291-1a, span: [body, 0, 6542]}
+- ref:
+    seq: 291
+    marker_id: KR4h0152_WYG_291-1a
+    span:
+    - body
+    - 0
+    - 6542
   label: 卷二百九十一
   type: section
   level: 1
-- ref: {seq: 292, marker_id: KR4h0152_WYG_292-1a, span: [body, 0, 7044]}
+- ref:
+    seq: 292
+    marker_id: KR4h0152_WYG_292-1a
+    span:
+    - body
+    - 0
+    - 7044
   label: 卷二百九十二
   type: section
   level: 1
-- ref: {seq: 293, marker_id: KR4h0152_WYG_293-1a, span: [body, 0, 9973]}
+- ref:
+    seq: 293
+    marker_id: KR4h0152_WYG_293-1a
+    span:
+    - body
+    - 0
+    - 9973
   label: 卷二百九十三
   type: section
   level: 1
-- ref: {seq: 294, marker_id: KR4h0152_WYG_294-1a, span: [body, 0, 8057]}
+- ref:
+    seq: 294
+    marker_id: KR4h0152_WYG_294-1a
+    span:
+    - body
+    - 0
+    - 8057
   label: 卷二百九十四
   type: section
   level: 1
-- ref: {seq: 295, marker_id: KR4h0152_WYG_295-1a, span: [body, 0, 10537]}
+- ref:
+    seq: 295
+    marker_id: KR4h0152_WYG_295-1a
+    span:
+    - body
+    - 0
+    - 10537
   label: 卷二百九十五
   type: section
   level: 1
-- ref: {seq: 296, marker_id: KR4h0152_WYG_296-1a, span: [body, 0, 3240]}
+- ref:
+    seq: 296
+    marker_id: KR4h0152_WYG_296-1a
+    span:
+    - body
+    - 0
+    - 3240
   label: 卷二百九十六
   type: section
   level: 1
-- ref: {seq: 297, marker_id: KR4h0152_WYG_297-1a, span: [body, 0, 4263]}
+- ref:
+    seq: 297
+    marker_id: KR4h0152_WYG_297-1a
+    span:
+    - body
+    - 0
+    - 4263
   label: 卷二百九十七
   type: section
   level: 1
-- ref: {seq: 298, marker_id: KR4h0152_WYG_298-1a, span: [body, 0, 4402]}
+- ref:
+    seq: 298
+    marker_id: KR4h0152_WYG_298-1a
+    span:
+    - body
+    - 0
+    - 4402
   label: 卷二百九十八
   type: section
   level: 1
-- ref: {seq: 299, marker_id: KR4h0152_WYG_299-1a, span: [body, 0, 5974]}
+- ref:
+    seq: 299
+    marker_id: KR4h0152_WYG_299-1a
+    span:
+    - body
+    - 0
+    - 5974
   label: 卷二百九十九
   type: section
   level: 1
-- ref: {seq: 300, marker_id: KR4h0152_WYG_300-1a, span: [body, 0, 4572]}
+- ref:
+    seq: 300
+    marker_id: KR4h0152_WYG_300-1a
+    span:
+    - body
+    - 0
+    - 4572
   label: 卷三百
   type: section
   level: 1
-- ref: {seq: 301, marker_id: KR4h0152_WYG_301-1a, span: [body, 0, 4383]}
+- ref:
+    seq: 301
+    marker_id: KR4h0152_WYG_301-1a
+    span:
+    - body
+    - 0
+    - 4383
   label: 卷三百一
   type: section
   level: 1
-- ref: {seq: 302, marker_id: KR4h0152_WYG_302-1a, span: [body, 0, 2715]}
+- ref:
+    seq: 302
+    marker_id: KR4h0152_WYG_302-1a
+    span:
+    - body
+    - 0
+    - 2715
   label: 卷三百二
   type: section
   level: 1
-- ref: {seq: 303, marker_id: KR4h0152_WYG_303-1a, span: [body, 0, 1890]}
+- ref:
+    seq: 303
+    marker_id: KR4h0152_WYG_303-1a
+    span:
+    - body
+    - 0
+    - 1890
   label: 卷三百三
   type: section
   level: 1
-- ref: {seq: 304, marker_id: KR4h0152_WYG_304-1a, span: [body, 0, 294]}
+- ref:
+    seq: 304
+    marker_id: KR4h0152_WYG_304-1a
+    span:
+    - body
+    - 0
+    - 294
   label: 卷三百四
   type: section
   level: 1
-- ref: {seq: 305, marker_id: KR4h0152_WYG_305-1a, span: [body, 0, 11559]}
+- ref:
+    seq: 305
+    marker_id: KR4h0152_WYG_305-1a
+    span:
+    - body
+    - 0
+    - 11559
   label: 卷三百五
   type: section
   level: 1
-- ref: {seq: 306, marker_id: KR4h0152_WYG_306-1a, span: [body, 0, 1044]}
+- ref:
+    seq: 306
+    marker_id: KR4h0152_WYG_306-1a
+    span:
+    - body
+    - 0
+    - 1044
   label: 卷三百六
   type: section
   level: 1
-- ref: {seq: 307, marker_id: KR4h0152_WYG_307-1a, span: [body, 0, 1714]}
+- ref:
+    seq: 307
+    marker_id: KR4h0152_WYG_307-1a
+    span:
+    - body
+    - 0
+    - 1714
   label: 卷三百七
   type: section
   level: 1
-- ref: {seq: 308, marker_id: KR4h0152_WYG_308-1a, span: [body, 0, 1230]}
+- ref:
+    seq: 308
+    marker_id: KR4h0152_WYG_308-1a
+    span:
+    - body
+    - 0
+    - 1230
   label: 卷三百八
   type: section
   level: 1
-- ref: {seq: 309, marker_id: KR4h0152_WYG_309-1a, span: [body, 0, 1068]}
+- ref:
+    seq: 309
+    marker_id: KR4h0152_WYG_309-1a
+    span:
+    - body
+    - 0
+    - 1068
   label: 卷三百九
   type: section
   level: 1
-- ref: {seq: 310, marker_id: KR4h0152_WYG_310-1a, span: [body, 0, 4935]}
+- ref:
+    seq: 310
+    marker_id: KR4h0152_WYG_310-1a
+    span:
+    - body
+    - 0
+    - 4935
   label: 卷三百十
   type: section
   level: 1
-- ref: {seq: 311, marker_id: KR4h0152_WYG_311-1a, span: [body, 0, 469]}
+- ref:
+    seq: 311
+    marker_id: KR4h0152_WYG_311-1a
+    span:
+    - body
+    - 0
+    - 469
   label: 卷三百十一
   type: section
   level: 1
-- ref: {seq: 312, marker_id: KR4h0152_WYG_312-1a, span: [body, 0, 1539]}
+- ref:
+    seq: 312
+    marker_id: KR4h0152_WYG_312-1a
+    span:
+    - body
+    - 0
+    - 1539
   label: 卷三百十二
   type: section
   level: 1
-- ref: {seq: 313, marker_id: KR4h0152_WYG_313-1a, span: [body, 0, 2747]}
+- ref:
+    seq: 313
+    marker_id: KR4h0152_WYG_313-1a
+    span:
+    - body
+    - 0
+    - 2747
   label: 卷三百十三
   type: section
   level: 1
-- ref: {seq: 314, marker_id: KR4h0152_WYG_314-1a, span: [body, 0, 6367]}
+- ref:
+    seq: 314
+    marker_id: KR4h0152_WYG_314-1a
+    span:
+    - body
+    - 0
+    - 6367
   label: 卷三百十四
   type: section
   level: 1
-- ref: {seq: 315, marker_id: KR4h0152_WYG_315-1a, span: [body, 0, 4813]}
+- ref:
+    seq: 315
+    marker_id: KR4h0152_WYG_315-1a
+    span:
+    - body
+    - 0
+    - 4813
   label: 卷三百十五
   type: section
   level: 1
-- ref: {seq: 316, marker_id: KR4h0152_WYG_316-1a, span: [body, 0, 5935]}
+- ref:
+    seq: 316
+    marker_id: KR4h0152_WYG_316-1a
+    span:
+    - body
+    - 0
+    - 5935
   label: 卷三百十六
   type: section
   level: 1
-- ref: {seq: 317, marker_id: KR4h0152_WYG_317-1a, span: [body, 0, 4585]}
+- ref:
+    seq: 317
+    marker_id: KR4h0152_WYG_317-1a
+    span:
+    - body
+    - 0
+    - 4585
   label: 卷三百十七
   type: section
   level: 1
-- ref: {seq: 318, marker_id: KR4h0152_WYG_318-1a, span: [body, 0, 4198]}
+- ref:
+    seq: 318
+    marker_id: KR4h0152_WYG_318-1a
+    span:
+    - body
+    - 0
+    - 4198
   label: 卷三百十八
   type: section
   level: 1
-- ref: {seq: 319, marker_id: KR4h0152_WYG_319-1a, span: [body, 0, 6535]}
+- ref:
+    seq: 319
+    marker_id: KR4h0152_WYG_319-1a
+    span:
+    - body
+    - 0
+    - 6535
   label: 卷三百十九
   type: section
   level: 1
-- ref: {seq: 320, marker_id: KR4h0152_WYG_320-1a, span: [body, 0, 4758]}
+- ref:
+    seq: 320
+    marker_id: KR4h0152_WYG_320-1a
+    span:
+    - body
+    - 0
+    - 4758
   label: 卷三百二十
   type: section
   level: 1
-- ref: {seq: 321, marker_id: KR4h0152_WYG_321-1a, span: [body, 0, 1262]}
+- ref:
+    seq: 321
+    marker_id: KR4h0152_WYG_321-1a
+    span:
+    - body
+    - 0
+    - 1262
   label: 卷三百二十一
   type: section
   level: 1
-- ref: {seq: 322, marker_id: KR4h0152_WYG_322-1a, span: [body, 0, 7366]}
+- ref:
+    seq: 322
+    marker_id: KR4h0152_WYG_322-1a
+    span:
+    - body
+    - 0
+    - 7366
   label: 卷三百二十二
   type: section
   level: 1
-- ref: {seq: 323, marker_id: KR4h0152_WYG_323-1a, span: [body, 0, 7627]}
+- ref:
+    seq: 323
+    marker_id: KR4h0152_WYG_323-1a
+    span:
+    - body
+    - 0
+    - 7627
   label: 卷三百二十三
   type: section
   level: 1
-- ref: {seq: 324, marker_id: KR4h0152_WYG_324-1a, span: [body, 0, 2513]}
+- ref:
+    seq: 324
+    marker_id: KR4h0152_WYG_324-1a
+    span:
+    - body
+    - 0
+    - 2513
   label: 卷三百二十四
   type: section
   level: 1
-- ref: {seq: 325, marker_id: KR4h0152_WYG_325-1a, span: [body, 0, 6223]}
+- ref:
+    seq: 325
+    marker_id: KR4h0152_WYG_325-1a
+    span:
+    - body
+    - 0
+    - 6223
   label: 卷三百二十五
   type: section
   level: 1
-- ref: {seq: 326, marker_id: KR4h0152_WYG_326-1a, span: [body, 0, 4247]}
+- ref:
+    seq: 326
+    marker_id: KR4h0152_WYG_326-1a
+    span:
+    - body
+    - 0
+    - 4247
   label: 卷三百二十六
   type: section
   level: 1
-- ref: {seq: 327, marker_id: KR4h0152_WYG_327-1a, span: [body, 0, 7779]}
+- ref:
+    seq: 327
+    marker_id: KR4h0152_WYG_327-1a
+    span:
+    - body
+    - 0
+    - 7779
   label: 卷三百二十七
   type: section
   level: 1
-- ref: {seq: 328, marker_id: KR4h0152_WYG_328-1a, span: [body, 0, 5876]}
+- ref:
+    seq: 328
+    marker_id: KR4h0152_WYG_328-1a
+    span:
+    - body
+    - 0
+    - 5876
   label: 卷三百二十八
   type: section
   level: 1
-- ref: {seq: 329, marker_id: KR4h0152_WYG_329-1a, span: [body, 0, 5516]}
+- ref:
+    seq: 329
+    marker_id: KR4h0152_WYG_329-1a
+    span:
+    - body
+    - 0
+    - 5516
   label: 卷三百二十九
   type: section
   level: 1
-- ref: {seq: 330, marker_id: KR4h0152_WYG_330-1a, span: [body, 0, 4769]}
+- ref:
+    seq: 330
+    marker_id: KR4h0152_WYG_330-1a
+    span:
+    - body
+    - 0
+    - 4769
   label: 卷三百三十
   type: section
   level: 1
-- ref: {seq: 331, marker_id: KR4h0152_WYG_331-1a, span: [body, 0, 6159]}
+- ref:
+    seq: 331
+    marker_id: KR4h0152_WYG_331-1a
+    span:
+    - body
+    - 0
+    - 6159
   label: 卷三百三十一
   type: section
   level: 1
-- ref: {seq: 332, marker_id: KR4h0152_WYG_332-1a, span: [body, 0, 6770]}
+- ref:
+    seq: 332
+    marker_id: KR4h0152_WYG_332-1a
+    span:
+    - body
+    - 0
+    - 6770
   label: 卷三百三十二
   type: section
   level: 1
-- ref: {seq: 333, marker_id: KR4h0152_WYG_333-1a, span: [body, 0, 5567]}
+- ref:
+    seq: 333
+    marker_id: KR4h0152_WYG_333-1a
+    span:
+    - body
+    - 0
+    - 5567
   label: 卷三百三十三
   type: section
   level: 1
-- ref: {seq: 334, marker_id: KR4h0152_WYG_334-1a, span: [body, 0, 6674]}
+- ref:
+    seq: 334
+    marker_id: KR4h0152_WYG_334-1a
+    span:
+    - body
+    - 0
+    - 6674
   label: 卷三百三十四
   type: section
   level: 1
-- ref: {seq: 335, marker_id: KR4h0152_WYG_335-1a, span: [body, 0, 7577]}
+- ref:
+    seq: 335
+    marker_id: KR4h0152_WYG_335-1a
+    span:
+    - body
+    - 0
+    - 7577
   label: 卷三百三十五
   type: section
   level: 1
-- ref: {seq: 336, marker_id: KR4h0152_WYG_336-1a, span: [body, 0, 5384]}
+- ref:
+    seq: 336
+    marker_id: KR4h0152_WYG_336-1a
+    span:
+    - body
+    - 0
+    - 5384
   label: 卷三百三十六
   type: section
   level: 1
-- ref: {seq: 337, marker_id: KR4h0152_WYG_337-1a, span: [body, 0, 7191]}
+- ref:
+    seq: 337
+    marker_id: KR4h0152_WYG_337-1a
+    span:
+    - body
+    - 0
+    - 7191
   label: 卷三百三十七
   type: section
   level: 1
-- ref: {seq: 338, marker_id: KR4h0152_WYG_338-1a, span: [body, 0, 7368]}
+- ref:
+    seq: 338
+    marker_id: KR4h0152_WYG_338-1a
+    span:
+    - body
+    - 0
+    - 7368
   label: 卷三百三十八
   type: section
   level: 1
-- ref: {seq: 339, marker_id: KR4h0152_WYG_339-1a, span: [body, 0, 4651]}
+- ref:
+    seq: 339
+    marker_id: KR4h0152_WYG_339-1a
+    span:
+    - body
+    - 0
+    - 4651
   label: 卷三百三十九
   type: section
   level: 1
-- ref: {seq: 340, marker_id: KR4h0152_WYG_340-1a, span: [body, 0, 623]}
+- ref:
+    seq: 340
+    marker_id: KR4h0152_WYG_340-1a
+    span:
+    - body
+    - 0
+    - 623
   label: 卷三百四十
   type: section
   level: 1
-- ref: {seq: 341, marker_id: KR4h0152_WYG_341-1a, span: [body, 0, 6011]}
+- ref:
+    seq: 341
+    marker_id: KR4h0152_WYG_341-1a
+    span:
+    - body
+    - 0
+    - 6011
   label: 卷三百四十一
   type: section
   level: 1
-- ref: {seq: 342, marker_id: KR4h0152_WYG_342-1a, span: [body, 0, 5449]}
+- ref:
+    seq: 342
+    marker_id: KR4h0152_WYG_342-1a
+    span:
+    - body
+    - 0
+    - 5449
   label: 卷三百四十二
   type: section
   level: 1
-- ref: {seq: 343, marker_id: KR4h0152_WYG_343-1a, span: [body, 0, 5665]}
+- ref:
+    seq: 343
+    marker_id: KR4h0152_WYG_343-1a
+    span:
+    - body
+    - 0
+    - 5665
   label: 卷三百四十三
   type: section
   level: 1
-- ref: {seq: 344, marker_id: KR4h0152_WYG_344-1a, span: [body, 0, 6311]}
+- ref:
+    seq: 344
+    marker_id: KR4h0152_WYG_344-1a
+    span:
+    - body
+    - 0
+    - 6311
   label: 卷三百四十四
   type: section
   level: 1
-- ref: {seq: 345, marker_id: KR4h0152_WYG_345-1a, span: [body, 0, 8152]}
+- ref:
+    seq: 345
+    marker_id: KR4h0152_WYG_345-1a
+    span:
+    - body
+    - 0
+    - 8152
   label: 卷三百四十五
   type: section
   level: 1
-- ref: {seq: 346, marker_id: KR4h0152_WYG_346-1a, span: [body, 0, 5497]}
+- ref:
+    seq: 346
+    marker_id: KR4h0152_WYG_346-1a
+    span:
+    - body
+    - 0
+    - 5497
   label: 卷三百四十六
   type: section
   level: 1
-- ref: {seq: 347, marker_id: KR4h0152_WYG_347-1a, span: [body, 0, 5004]}
+- ref:
+    seq: 347
+    marker_id: KR4h0152_WYG_347-1a
+    span:
+    - body
+    - 0
+    - 5004
   label: 卷三百四十七
   type: section
   level: 1
-- ref: {seq: 348, marker_id: KR4h0152_WYG_348-1a, span: [body, 0, 2091]}
+- ref:
+    seq: 348
+    marker_id: KR4h0152_WYG_348-1a
+    span:
+    - body
+    - 0
+    - 2091
   label: 卷三百四十八
   type: section
   level: 1
-- ref: {seq: 349, marker_id: KR4h0152_WYG_349-1a, span: [body, 0, 10720]}
+- ref:
+    seq: 349
+    marker_id: KR4h0152_WYG_349-1a
+    span:
+    - body
+    - 0
+    - 10720
   label: 卷三百四十九
   type: section
   level: 1
-- ref: {seq: 350, marker_id: KR4h0152_WYG_350-1a, span: [body, 0, 947]}
+- ref:
+    seq: 350
+    marker_id: KR4h0152_WYG_350-1a
+    span:
+    - body
+    - 0
+    - 947
   label: 卷三百五十
   type: section
   level: 1
-- ref: {seq: 351, marker_id: KR4h0152_WYG_351-1a, span: [body, 0, 4033]}
+- ref:
+    seq: 351
+    marker_id: KR4h0152_WYG_351-1a
+    span:
+    - body
+    - 0
+    - 4033
   label: 卷三百五十一
   type: section
   level: 1
-- ref: {seq: 352, marker_id: KR4h0152_WYG_352-1a, span: [body, 0, 1424]}
+- ref:
+    seq: 352
+    marker_id: KR4h0152_WYG_352-1a
+    span:
+    - body
+    - 0
+    - 1424
   label: 卷三百五十二
   type: section
   level: 1
-- ref: {seq: 353, marker_id: KR4h0152_WYG_353-1a, span: [body, 0, 5603]}
+- ref:
+    seq: 353
+    marker_id: KR4h0152_WYG_353-1a
+    span:
+    - body
+    - 0
+    - 5603
   label: 卷三百五十三
   type: section
   level: 1
-- ref: {seq: 354, marker_id: KR4h0152_WYG_354-1a, span: [body, 0, 8314]}
+- ref:
+    seq: 354
+    marker_id: KR4h0152_WYG_354-1a
+    span:
+    - body
+    - 0
+    - 8314
   label: 卷三百五十四
   type: section
   level: 1
-- ref: {seq: 355, marker_id: KR4h0152_WYG_355-1a, span: [body, 0, 7183]}
+- ref:
+    seq: 355
+    marker_id: KR4h0152_WYG_355-1a
+    span:
+    - body
+    - 0
+    - 7183
   label: 卷三百五十五
   type: section
   level: 1
-- ref: {seq: 356, marker_id: KR4h0152_WYG_356-1a, span: [body, 0, 8233]}
+- ref:
+    seq: 356
+    marker_id: KR4h0152_WYG_356-1a
+    span:
+    - body
+    - 0
+    - 8233
   label: 卷三百五十六
   type: section
   level: 1
-- ref: {seq: 357, marker_id: KR4h0152_WYG_357-1a, span: [body, 0, 10596]}
+- ref:
+    seq: 357
+    marker_id: KR4h0152_WYG_357-1a
+    span:
+    - body
+    - 0
+    - 10596
   label: 卷三百五十七
   type: section
   level: 1
-- ref: {seq: 358, marker_id: KR4h0152_WYG_358-1a, span: [body, 0, 6124]}
+- ref:
+    seq: 358
+    marker_id: KR4h0152_WYG_358-1a
+    span:
+    - body
+    - 0
+    - 6124
   label: 卷三百五十八
   type: section
   level: 1
-- ref: {seq: 359, marker_id: KR4h0152_WYG_359-1a, span: [body, 0, 4079]}
+- ref:
+    seq: 359
+    marker_id: KR4h0152_WYG_359-1a
+    span:
+    - body
+    - 0
+    - 4079
   label: 卷三百五十九
   type: section
   level: 1
-- ref: {seq: 360, marker_id: KR4h0152_WYG_360-1a, span: [body, 0, 6452]}
+- ref:
+    seq: 360
+    marker_id: KR4h0152_WYG_360-1a
+    span:
+    - body
+    - 0
+    - 6452
   label: 卷三百六十
   type: section
   level: 1
-- ref: {seq: 361, marker_id: KR4h0152_WYG_361-1a, span: [body, 0, 5708]}
+- ref:
+    seq: 361
+    marker_id: KR4h0152_WYG_361-1a
+    span:
+    - body
+    - 0
+    - 5708
   label: 卷三百六十一
   type: section
   level: 1
-- ref: {seq: 362, marker_id: KR4h0152_WYG_362-1a, span: [body, 0, 4589]}
+- ref:
+    seq: 362
+    marker_id: KR4h0152_WYG_362-1a
+    span:
+    - body
+    - 0
+    - 4589
   label: 卷三百六十二
   type: section
   level: 1
-- ref: {seq: 363, marker_id: KR4h0152_WYG_363-1a, span: [body, 0, 1128]}
+- ref:
+    seq: 363
+    marker_id: KR4h0152_WYG_363-1a
+    span:
+    - body
+    - 0
+    - 1128
   label: 卷三百六十三
   type: section
   level: 1
-- ref: {seq: 364, marker_id: KR4h0152_WYG_364-1a, span: [body, 0, 6483]}
+- ref:
+    seq: 364
+    marker_id: KR4h0152_WYG_364-1a
+    span:
+    - body
+    - 0
+    - 6483
   label: 卷三百六十四
   type: section
   level: 1
-- ref: {seq: 365, marker_id: KR4h0152_WYG_365-1a, span: [body, 0, 10792]}
+- ref:
+    seq: 365
+    marker_id: KR4h0152_WYG_365-1a
+    span:
+    - body
+    - 0
+    - 10792
   label: 卷三百六十五
   type: section
   level: 1
-- ref: {seq: 366, marker_id: KR4h0152_WYG_366-1a, span: [body, 0, 7684]}
+- ref:
+    seq: 366
+    marker_id: KR4h0152_WYG_366-1a
+    span:
+    - body
+    - 0
+    - 7684
   label: 卷三百六十六
   type: section
   level: 1
-- ref: {seq: 367, marker_id: KR4h0152_WYG_367-1a, span: [body, 0, 8236]}
+- ref:
+    seq: 367
+    marker_id: KR4h0152_WYG_367-1a
+    span:
+    - body
+    - 0
+    - 8236
   label: 卷三百六十七
   type: section
   level: 1
-- ref: {seq: 368, marker_id: KR4h0152_WYG_368-1a, span: [body, 0, 8598]}
+- ref:
+    seq: 368
+    marker_id: KR4h0152_WYG_368-1a
+    span:
+    - body
+    - 0
+    - 8598
   label: 卷三百六十八
   type: section
   level: 1
-- ref: {seq: 369, marker_id: KR4h0152_WYG_369-1a, span: [body, 0, 9768]}
+- ref:
+    seq: 369
+    marker_id: KR4h0152_WYG_369-1a
+    span:
+    - body
+    - 0
+    - 9768
   label: 卷三百六十九
   type: section
   level: 1
-- ref: {seq: 370, marker_id: KR4h0152_WYG_370-1a, span: [body, 0, 8871]}
+- ref:
+    seq: 370
+    marker_id: KR4h0152_WYG_370-1a
+    span:
+    - body
+    - 0
+    - 8871
   label: 卷三百七十
   type: section
   level: 1
-- ref: {seq: 371, marker_id: KR4h0152_WYG_371-1a, span: [body, 0, 5060]}
+- ref:
+    seq: 371
+    marker_id: KR4h0152_WYG_371-1a
+    span:
+    - body
+    - 0
+    - 5060
   label: 卷三百七十一
   type: section
   level: 1
-- ref: {seq: 372, marker_id: KR4h0152_WYG_372-1a, span: [body, 0, 6690]}
+- ref:
+    seq: 372
+    marker_id: KR4h0152_WYG_372-1a
+    span:
+    - body
+    - 0
+    - 6690
   label: 卷三百七十二
   type: section
   level: 1
-- ref: {seq: 373, marker_id: KR4h0152_WYG_373-1a, span: [body, 0, 3949]}
+- ref:
+    seq: 373
+    marker_id: KR4h0152_WYG_373-1a
+    span:
+    - body
+    - 0
+    - 3949
   label: 卷三百七十三
   type: section
   level: 1
-- ref: {seq: 374, marker_id: KR4h0152_WYG_374-1a, span: [body, 0, 2072]}
+- ref:
+    seq: 374
+    marker_id: KR4h0152_WYG_374-1a
+    span:
+    - body
+    - 0
+    - 2072
   label: 卷三百七十四
   type: section
   level: 1
-- ref: {seq: 375, marker_id: KR4h0152_WYG_375-1a, span: [body, 0, 6081]}
+- ref:
+    seq: 375
+    marker_id: KR4h0152_WYG_375-1a
+    span:
+    - body
+    - 0
+    - 6081
   label: 卷三百七十五
   type: section
   level: 1
-- ref: {seq: 376, marker_id: KR4h0152_WYG_376-1a, span: [body, 0, 4757]}
+- ref:
+    seq: 376
+    marker_id: KR4h0152_WYG_376-1a
+    span:
+    - body
+    - 0
+    - 4757
   label: 卷三百七十六
   type: section
   level: 1
-- ref: {seq: 377, marker_id: KR4h0152_WYG_377-1a, span: [body, 0, 7538]}
+- ref:
+    seq: 377
+    marker_id: KR4h0152_WYG_377-1a
+    span:
+    - body
+    - 0
+    - 7538
   label: 卷三百七十七
   type: section
   level: 1
-- ref: {seq: 378, marker_id: KR4h0152_WYG_378-1a, span: [body, 0, 7560]}
+- ref:
+    seq: 378
+    marker_id: KR4h0152_WYG_378-1a
+    span:
+    - body
+    - 0
+    - 7560
   label: 卷三百七十八
   type: section
   level: 1
-- ref: {seq: 379, marker_id: KR4h0152_WYG_379-1a, span: [body, 0, 16063]}
+- ref:
+    seq: 379
+    marker_id: KR4h0152_WYG_379-1a
+    span:
+    - body
+    - 0
+    - 16063
   label: 卷三百七十九
   type: section
   level: 1
-- ref: {seq: 380, marker_id: KR4h0152_WYG_380-1a, span: [body, 0, 11571]}
+- ref:
+    seq: 380
+    marker_id: KR4h0152_WYG_380-1a
+    span:
+    - body
+    - 0
+    - 11571
   label: 卷三百八十
   type: section
   level: 1
-- ref: {seq: 381, marker_id: KR4h0152_WYG_381-1a, span: [body, 0, 5092]}
+- ref:
+    seq: 381
+    marker_id: KR4h0152_WYG_381-1a
+    span:
+    - body
+    - 0
+    - 5092
   label: 卷三百八十一
   type: section
   level: 1
-- ref: {seq: 382, marker_id: KR4h0152_WYG_382-1a, span: [body, 0, 6460]}
+- ref:
+    seq: 382
+    marker_id: KR4h0152_WYG_382-1a
+    span:
+    - body
+    - 0
+    - 6460
   label: 卷三百八十二
   type: section
   level: 1
-- ref: {seq: 383, marker_id: KR4h0152_WYG_383-1a, span: [body, 0, 6793]}
+- ref:
+    seq: 383
+    marker_id: KR4h0152_WYG_383-1a
+    span:
+    - body
+    - 0
+    - 6793
   label: 卷三百八十三
   type: section
   level: 1
-- ref: {seq: 384, marker_id: KR4h0152_WYG_384-1a, span: [body, 0, 3273]}
+- ref:
+    seq: 384
+    marker_id: KR4h0152_WYG_384-1a
+    span:
+    - body
+    - 0
+    - 3273
   label: 卷三百八十四
   type: section
   level: 1
-- ref: {seq: 385, marker_id: KR4h0152_WYG_385-1a, span: [body, 0, 4868]}
+- ref:
+    seq: 385
+    marker_id: KR4h0152_WYG_385-1a
+    span:
+    - body
+    - 0
+    - 4868
   label: 卷三百八十五
   type: section
   level: 1
-- ref: {seq: 386, marker_id: KR4h0152_WYG_386-1a, span: [body, 0, 6247]}
+- ref:
+    seq: 386
+    marker_id: KR4h0152_WYG_386-1a
+    span:
+    - body
+    - 0
+    - 6247
   label: 卷三百八十六
   type: section
   level: 1
-- ref: {seq: 387, marker_id: KR4h0152_WYG_387-1a, span: [body, 0, 11541]}
+- ref:
+    seq: 387
+    marker_id: KR4h0152_WYG_387-1a
+    span:
+    - body
+    - 0
+    - 11541
   label: 卷三百八十七
   type: section
   level: 1
-- ref: {seq: 388, marker_id: KR4h0152_WYG_388-1a, span: [body, 0, 8464]}
+- ref:
+    seq: 388
+    marker_id: KR4h0152_WYG_388-1a
+    span:
+    - body
+    - 0
+    - 8464
   label: 卷三百八十八
   type: section
   level: 1
-- ref: {seq: 389, marker_id: KR4h0152_WYG_389-1a, span: [body, 0, 3996]}
+- ref:
+    seq: 389
+    marker_id: KR4h0152_WYG_389-1a
+    span:
+    - body
+    - 0
+    - 3996
   label: 卷三百八十九
   type: section
   level: 1
-- ref: {seq: 390, marker_id: KR4h0152_WYG_390-1a, span: [body, 0, 1072]}
+- ref:
+    seq: 390
+    marker_id: KR4h0152_WYG_390-1a
+    span:
+    - body
+    - 0
+    - 1072
   label: 卷三百九十
   type: section
   level: 1
-- ref: {seq: 391, marker_id: KR4h0152_WYG_391-1a, span: [body, 0, 4008]}
+- ref:
+    seq: 391
+    marker_id: KR4h0152_WYG_391-1a
+    span:
+    - body
+    - 0
+    - 4008
   label: 卷三百九十一
   type: section
   level: 1
-- ref: {seq: 392, marker_id: KR4h0152_WYG_392-1a, span: [body, 0, 6682]}
+- ref:
+    seq: 392
+    marker_id: KR4h0152_WYG_392-1a
+    span:
+    - body
+    - 0
+    - 6682
   label: 卷三百九十二
   type: section
   level: 1
-- ref: {seq: 393, marker_id: KR4h0152_WYG_393-1a, span: [body, 0, 1902]}
+- ref:
+    seq: 393
+    marker_id: KR4h0152_WYG_393-1a
+    span:
+    - body
+    - 0
+    - 1902
   label: 卷三百九十三
   type: section
   level: 1
-- ref: {seq: 394, marker_id: KR4h0152_WYG_394-1a, span: [body, 0, 4544]}
+- ref:
+    seq: 394
+    marker_id: KR4h0152_WYG_394-1a
+    span:
+    - body
+    - 0
+    - 4544
   label: 卷三百九十四
   type: section
   level: 1
-- ref: {seq: 395, marker_id: KR4h0152_WYG_395-1a, span: [body, 0, 6485]}
+- ref:
+    seq: 395
+    marker_id: KR4h0152_WYG_395-1a
+    span:
+    - body
+    - 0
+    - 6485
   label: 卷三百九十五
   type: section
   level: 1
-- ref: {seq: 396, marker_id: KR4h0152_WYG_396-1a, span: [body, 0, 4524]}
+- ref:
+    seq: 396
+    marker_id: KR4h0152_WYG_396-1a
+    span:
+    - body
+    - 0
+    - 4524
   label: 卷三百九十六
   type: section
   level: 1
-- ref: {seq: 397, marker_id: KR4h0152_WYG_397-1a, span: [body, 0, 9449]}
+- ref:
+    seq: 397
+    marker_id: KR4h0152_WYG_397-1a
+    span:
+    - body
+    - 0
+    - 9449
   label: 卷三百九十七
   type: section
   level: 1
-- ref: {seq: 398, marker_id: KR4h0152_WYG_398-1a, span: [body, 0, 11451]}
+- ref:
+    seq: 398
+    marker_id: KR4h0152_WYG_398-1a
+    span:
+    - body
+    - 0
+    - 11451
   label: 卷三百九十八
   type: section
   level: 1
-- ref: {seq: 399, marker_id: KR4h0152_WYG_399-1a, span: [body, 0, 7866]}
+- ref:
+    seq: 399
+    marker_id: KR4h0152_WYG_399-1a
+    span:
+    - body
+    - 0
+    - 7866
   label: 卷三百九十九
   type: section
   level: 1
-- ref: {seq: 400, marker_id: KR4h0152_WYG_400-1a, span: [body, 0, 7569]}
+- ref:
+    seq: 400
+    marker_id: KR4h0152_WYG_400-1a
+    span:
+    - body
+    - 0
+    - 7569
   label: 卷四百
   type: section
   level: 1
-- ref: {seq: 401, marker_id: KR4h0152_WYG_401-1a, span: [body, 0, 8828]}
+- ref:
+    seq: 401
+    marker_id: KR4h0152_WYG_401-1a
+    span:
+    - body
+    - 0
+    - 8828
   label: 卷四百一
   type: section
   level: 1
-- ref: {seq: 402, marker_id: KR4h0152_WYG_402-1a, span: [body, 0, 4142]}
+- ref:
+    seq: 402
+    marker_id: KR4h0152_WYG_402-1a
+    span:
+    - body
+    - 0
+    - 4142
   label: 卷四百二
   type: section
   level: 1
-- ref: {seq: 403, marker_id: KR4h0152_WYG_403-1a, span: [body, 0, 6105]}
+- ref:
+    seq: 403
+    marker_id: KR4h0152_WYG_403-1a
+    span:
+    - body
+    - 0
+    - 6105
   label: 卷四百三
   type: section
   level: 1
-- ref: {seq: 404, marker_id: KR4h0152_WYG_404-1a, span: [body, 0, 4682]}
+- ref:
+    seq: 404
+    marker_id: KR4h0152_WYG_404-1a
+    span:
+    - body
+    - 0
+    - 4682
   label: 卷四百四
   type: section
   level: 1
-- ref: {seq: 405, marker_id: KR4h0152_WYG_405-1a, span: [body, 0, 1320]}
+- ref:
+    seq: 405
+    marker_id: KR4h0152_WYG_405-1a
+    span:
+    - body
+    - 0
+    - 1320
   label: 卷四百五
   type: section
   level: 1
-- ref: {seq: 406, marker_id: KR4h0152_WYG_406-1a, span: [body, 0, 2462]}
+- ref:
+    seq: 406
+    marker_id: KR4h0152_WYG_406-1a
+    span:
+    - body
+    - 0
+    - 2462
   label: 卷四百六
   type: section
   level: 1
-- ref: {seq: 407, marker_id: KR4h0152_WYG_407-1a, span: [body, 0, 6744]}
+- ref:
+    seq: 407
+    marker_id: KR4h0152_WYG_407-1a
+    span:
+    - body
+    - 0
+    - 6744
   label: 卷四百七
   type: section
   level: 1
-- ref: {seq: 408, marker_id: KR4h0152_WYG_408-1a, span: [body, 0, 3268]}
+- ref:
+    seq: 408
+    marker_id: KR4h0152_WYG_408-1a
+    span:
+    - body
+    - 0
+    - 3268
   label: 卷四百八
   type: section
   level: 1
-- ref: {seq: 409, marker_id: KR4h0152_WYG_409-1a, span: [body, 0, 7435]}
+- ref:
+    seq: 409
+    marker_id: KR4h0152_WYG_409-1a
+    span:
+    - body
+    - 0
+    - 7435
   label: 卷四百九
   type: section
   level: 1
-- ref: {seq: 410, marker_id: KR4h0152_WYG_410-1a, span: [body, 0, 7615]}
+- ref:
+    seq: 410
+    marker_id: KR4h0152_WYG_410-1a
+    span:
+    - body
+    - 0
+    - 7615
   label: 卷四百十
   type: section
   level: 1
-- ref: {seq: 411, marker_id: KR4h0152_WYG_411-1a, span: [body, 0, 7069]}
+- ref:
+    seq: 411
+    marker_id: KR4h0152_WYG_411-1a
+    span:
+    - body
+    - 0
+    - 7069
   label: 卷四百十一
   type: section
   level: 1
-- ref: {seq: 412, marker_id: KR4h0152_WYG_412-1a, span: [body, 0, 4423]}
+- ref:
+    seq: 412
+    marker_id: KR4h0152_WYG_412-1a
+    span:
+    - body
+    - 0
+    - 4423
   label: 卷四百十二
   type: section
   level: 1
-- ref: {seq: 413, marker_id: KR4h0152_WYG_413-1a, span: [body, 0, 9016]}
+- ref:
+    seq: 413
+    marker_id: KR4h0152_WYG_413-1a
+    span:
+    - body
+    - 0
+    - 9016
   label: 卷四百十三
   type: section
   level: 1
-- ref: {seq: 414, marker_id: KR4h0152_WYG_414-1a, span: [body, 0, 6164]}
+- ref:
+    seq: 414
+    marker_id: KR4h0152_WYG_414-1a
+    span:
+    - body
+    - 0
+    - 6164
   label: 卷四百十四
   type: section
   level: 1
-- ref: {seq: 415, marker_id: KR4h0152_WYG_415-1a, span: [body, 0, 16182]}
+- ref:
+    seq: 415
+    marker_id: KR4h0152_WYG_415-1a
+    span:
+    - body
+    - 0
+    - 16182
   label: 卷四百十五
   type: section
   level: 1
-- ref: {seq: 416, marker_id: KR4h0152_WYG_416-1a, span: [body, 0, 7950]}
+- ref:
+    seq: 416
+    marker_id: KR4h0152_WYG_416-1a
+    span:
+    - body
+    - 0
+    - 7950
   label: 卷四百十六
   type: section
   level: 1
-- ref: {seq: 417, marker_id: KR4h0152_WYG_417-1a, span: [body, 0, 7684]}
+- ref:
+    seq: 417
+    marker_id: KR4h0152_WYG_417-1a
+    span:
+    - body
+    - 0
+    - 7684
   label: 卷四百十七
   type: section
   level: 1
-- ref: {seq: 418, marker_id: KR4h0152_WYG_418-1a, span: [body, 0, 7316]}
+- ref:
+    seq: 418
+    marker_id: KR4h0152_WYG_418-1a
+    span:
+    - body
+    - 0
+    - 7316
   label: 卷四百十八
   type: section
   level: 1
-- ref: {seq: 419, marker_id: KR4h0152_WYG_419-1a, span: [body, 0, 5840]}
+- ref:
+    seq: 419
+    marker_id: KR4h0152_WYG_419-1a
+    span:
+    - body
+    - 0
+    - 5840
   label: 卷四百十九
   type: section
   level: 1
-- ref: {seq: 420, marker_id: KR4h0152_WYG_420-1a, span: [body, 0, 5344]}
+- ref:
+    seq: 420
+    marker_id: KR4h0152_WYG_420-1a
+    span:
+    - body
+    - 0
+    - 5344
   label: 卷四百二十
   type: section
   level: 1
-- ref: {seq: 421, marker_id: KR4h0152_WYG_421-1a, span: [body, 0, 4679]}
+- ref:
+    seq: 421
+    marker_id: KR4h0152_WYG_421-1a
+    span:
+    - body
+    - 0
+    - 4679
   label: 卷四百二十一
   type: section
   level: 1
-- ref: {seq: 422, marker_id: KR4h0152_WYG_422-1a, span: [body, 0, 910]}
+- ref:
+    seq: 422
+    marker_id: KR4h0152_WYG_422-1a
+    span:
+    - body
+    - 0
+    - 910
   label: 卷四百二十二
   type: section
   level: 1
-- ref: {seq: 423, marker_id: KR4h0152_WYG_423-1a, span: [body, 0, 4986]}
+- ref:
+    seq: 423
+    marker_id: KR4h0152_WYG_423-1a
+    span:
+    - body
+    - 0
+    - 4986
   label: 卷四百二十三
   type: section
   level: 1
-- ref: {seq: 424, marker_id: KR4h0152_WYG_424-1a, span: [body, 0, 7006]}
+- ref:
+    seq: 424
+    marker_id: KR4h0152_WYG_424-1a
+    span:
+    - body
+    - 0
+    - 7006
   label: 卷四百二十四
   type: section
   level: 1
-- ref: {seq: 425, marker_id: KR4h0152_WYG_425-1a, span: [body, 0, 8239]}
+- ref:
+    seq: 425
+    marker_id: KR4h0152_WYG_425-1a
+    span:
+    - body
+    - 0
+    - 8239
   label: 卷四百二十五
   type: section
   level: 1
-- ref: {seq: 426, marker_id: KR4h0152_WYG_426-1a, span: [body, 0, 7099]}
+- ref:
+    seq: 426
+    marker_id: KR4h0152_WYG_426-1a
+    span:
+    - body
+    - 0
+    - 7099
   label: 卷四百二十六
   type: section
   level: 1
-- ref: {seq: 427, marker_id: KR4h0152_WYG_427-1a, span: [body, 0, 4161]}
+- ref:
+    seq: 427
+    marker_id: KR4h0152_WYG_427-1a
+    span:
+    - body
+    - 0
+    - 4161
   label: 卷四百二十七
   type: section
   level: 1
-- ref: {seq: 428, marker_id: KR4h0152_WYG_428-1a, span: [body, 0, 8921]}
+- ref:
+    seq: 428
+    marker_id: KR4h0152_WYG_428-1a
+    span:
+    - body
+    - 0
+    - 8921
   label: 卷四百二十八
   type: section
   level: 1
-- ref: {seq: 429, marker_id: KR4h0152_WYG_429-1a, span: [body, 0, 10506]}
+- ref:
+    seq: 429
+    marker_id: KR4h0152_WYG_429-1a
+    span:
+    - body
+    - 0
+    - 10506
   label: 卷四百二十九
   type: section
   level: 1
-- ref: {seq: 430, marker_id: KR4h0152_WYG_430-1a, span: [body, 0, 9030]}
+- ref:
+    seq: 430
+    marker_id: KR4h0152_WYG_430-1a
+    span:
+    - body
+    - 0
+    - 9030
   label: 卷四百三十
   type: section
   level: 1
-- ref: {seq: 431, marker_id: KR4h0152_WYG_431-1a, span: [body, 0, 7178]}
+- ref:
+    seq: 431
+    marker_id: KR4h0152_WYG_431-1a
+    span:
+    - body
+    - 0
+    - 7178
   label: 卷四百三十一
   type: section
   level: 1
-- ref: {seq: 432, marker_id: KR4h0152_WYG_432-1a, span: [body, 0, 7483]}
+- ref:
+    seq: 432
+    marker_id: KR4h0152_WYG_432-1a
+    span:
+    - body
+    - 0
+    - 7483
   label: 卷四百三十二
   type: section
   level: 1
-- ref: {seq: 433, marker_id: KR4h0152_WYG_433-1a, span: [body, 0, 16673]}
+- ref:
+    seq: 433
+    marker_id: KR4h0152_WYG_433-1a
+    span:
+    - body
+    - 0
+    - 16673
   label: 卷四百三十三
   type: section
   level: 1
-- ref: {seq: 434, marker_id: KR4h0152_WYG_434-1a, span: [body, 0, 12649]}
+- ref:
+    seq: 434
+    marker_id: KR4h0152_WYG_434-1a
+    span:
+    - body
+    - 0
+    - 12649
   label: 卷四百三十四
   type: section
   level: 1
-- ref: {seq: 435, marker_id: KR4h0152_WYG_435-1a, span: [body, 0, 10718]}
+- ref:
+    seq: 435
+    marker_id: KR4h0152_WYG_435-1a
+    span:
+    - body
+    - 0
+    - 10718
   label: 卷四百三十五
   type: section
   level: 1
-- ref: {seq: 436, marker_id: KR4h0152_WYG_436-1a, span: [body, 0, 15041]}
+- ref:
+    seq: 436
+    marker_id: KR4h0152_WYG_436-1a
+    span:
+    - body
+    - 0
+    - 15041
   label: 卷四百三十六
   type: section
   level: 1
-- ref: {seq: 437, marker_id: KR4h0152_WYG_437-1a, span: [body, 0, 5705]}
+- ref:
+    seq: 437
+    marker_id: KR4h0152_WYG_437-1a
+    span:
+    - body
+    - 0
+    - 5705
   label: 卷四百三十七
   type: section
   level: 1
-- ref: {seq: 438, marker_id: KR4h0152_WYG_438-1a, span: [body, 0, 8908]}
+- ref:
+    seq: 438
+    marker_id: KR4h0152_WYG_438-1a
+    span:
+    - body
+    - 0
+    - 8908
   label: 卷四百三十八
   type: section
   level: 1
-- ref: {seq: 439, marker_id: KR4h0152_WYG_439-1a, span: [body, 0, 3195]}
+- ref:
+    seq: 439
+    marker_id: KR4h0152_WYG_439-1a
+    span:
+    - body
+    - 0
+    - 3195
   label: 卷四百三十九
   type: section
   level: 1
-- ref: {seq: 440, marker_id: KR4h0152_WYG_440-1a, span: [body, 0, 8757]}
+- ref:
+    seq: 440
+    marker_id: KR4h0152_WYG_440-1a
+    span:
+    - body
+    - 0
+    - 8757
   label: 卷四百四十
   type: section
   level: 1
-- ref: {seq: 441, marker_id: KR4h0152_WYG_441-1a, span: [body, 0, 10852]}
+- ref:
+    seq: 441
+    marker_id: KR4h0152_WYG_441-1a
+    span:
+    - body
+    - 0
+    - 10852
   label: 卷四百四十一
   type: section
   level: 1
-- ref: {seq: 442, marker_id: KR4h0152_WYG_442-1a, span: [body, 0, 12724]}
+- ref:
+    seq: 442
+    marker_id: KR4h0152_WYG_442-1a
+    span:
+    - body
+    - 0
+    - 12724
   label: 卷四百四十二
   type: section
   level: 1
-- ref: {seq: 443, marker_id: KR4h0152_WYG_443-1a, span: [body, 0, 1174]}
+- ref:
+    seq: 443
+    marker_id: KR4h0152_WYG_443-1a
+    span:
+    - body
+    - 0
+    - 1174
   label: 卷四百四十三
   type: section
   level: 1
-- ref: {seq: 444, marker_id: KR4h0152_WYG_444-1a, span: [body, 0, 18806]}
+- ref:
+    seq: 444
+    marker_id: KR4h0152_WYG_444-1a
+    span:
+    - body
+    - 0
+    - 18806
   label: 卷四百四十四
   type: section
   level: 1
-- ref: {seq: 445, marker_id: KR4h0152_WYG_445-1a, span: [body, 0, 14919]}
+- ref:
+    seq: 445
+    marker_id: KR4h0152_WYG_445-1a
+    span:
+    - body
+    - 0
+    - 14919
   label: 卷四百四十五
   type: section
   level: 1
-- ref: {seq: 446, marker_id: KR4h0152_WYG_446-1a, span: [body, 0, 1473]}
+- ref:
+    seq: 446
+    marker_id: KR4h0152_WYG_446-1a
+    span:
+    - body
+    - 0
+    - 1473
   label: 卷四百四十六
   type: section
   level: 1
-- ref: {seq: 447, marker_id: KR4h0152_WYG_447-1a, span: [body, 0, 10722]}
+- ref:
+    seq: 447
+    marker_id: KR4h0152_WYG_447-1a
+    span:
+    - body
+    - 0
+    - 10722
   label: 卷四百四十七
   type: section
   level: 1
-- ref: {seq: 448, marker_id: KR4h0152_WYG_448-1a, span: [body, 0, 5238]}
+- ref:
+    seq: 448
+    marker_id: KR4h0152_WYG_448-1a
+    span:
+    - body
+    - 0
+    - 5238
   label: 卷四百四十八
   type: section
   level: 1
-- ref: {seq: 449, marker_id: KR4h0152_WYG_449-1a, span: [body, 0, 17274]}
+- ref:
+    seq: 449
+    marker_id: KR4h0152_WYG_449-1a
+    span:
+    - body
+    - 0
+    - 17274
   label: 卷四百四十九
   type: section
   level: 1
-- ref: {seq: 450, marker_id: KR4h0152_WYG_450-1a, span: [body, 0, 18394]}
+- ref:
+    seq: 450
+    marker_id: KR4h0152_WYG_450-1a
+    span:
+    - body
+    - 0
+    - 18394
   label: 卷四百五十
   type: section
   level: 1
-- ref: {seq: 451, marker_id: KR4h0152_WYG_451-1a, span: [body, 0, 3666]}
+- ref:
+    seq: 451
+    marker_id: KR4h0152_WYG_451-1a
+    span:
+    - body
+    - 0
+    - 3666
   label: 卷四百五十一
   type: section
   level: 1
-- ref: {seq: 452, marker_id: KR4h0152_WYG_452-1a, span: [body, 0, 5092]}
+- ref:
+    seq: 452
+    marker_id: KR4h0152_WYG_452-1a
+    span:
+    - body
+    - 0
+    - 5092
   label: 卷四百五十二
   type: section
   level: 1
-- ref: {seq: 453, marker_id: KR4h0152_WYG_453-1a, span: [body, 0, 8546]}
+- ref:
+    seq: 453
+    marker_id: KR4h0152_WYG_453-1a
+    span:
+    - body
+    - 0
+    - 8546
   label: 卷四百五十三
   type: section
   level: 1
-- ref: {seq: 454, marker_id: KR4h0152_WYG_454-1a, span: [body, 0, 4378]}
+- ref:
+    seq: 454
+    marker_id: KR4h0152_WYG_454-1a
+    span:
+    - body
+    - 0
+    - 4378
   label: 卷四百五十四
   type: section
   level: 1
-- ref: {seq: 455, marker_id: KR4h0152_WYG_455-1a, span: [body, 0, 1592]}
+- ref:
+    seq: 455
+    marker_id: KR4h0152_WYG_455-1a
+    span:
+    - body
+    - 0
+    - 1592
   label: 卷四百五十五
   type: section
   level: 1
-- ref: {seq: 456, marker_id: KR4h0152_WYG_456-1a, span: [body, 0, 4378]}
+- ref:
+    seq: 456
+    marker_id: KR4h0152_WYG_456-1a
+    span:
+    - body
+    - 0
+    - 4378
   label: 卷四百五十六
   type: section
   level: 1
-- ref: {seq: 457, marker_id: KR4h0152_WYG_457-1a, span: [body, 0, 3548]}
+- ref:
+    seq: 457
+    marker_id: KR4h0152_WYG_457-1a
+    span:
+    - body
+    - 0
+    - 3548
   label: 卷四百五十七
   type: section
   level: 1
-- ref: {seq: 458, marker_id: KR4h0152_WYG_458-1a, span: [body, 0, 4205]}
+- ref:
+    seq: 458
+    marker_id: KR4h0152_WYG_458-1a
+    span:
+    - body
+    - 0
+    - 4205
   label: 卷四百五十八
   type: section
   level: 1
-- ref: {seq: 459, marker_id: KR4h0152_WYG_459-1a, span: [body, 0, 2576]}
+- ref:
+    seq: 459
+    marker_id: KR4h0152_WYG_459-1a
+    span:
+    - body
+    - 0
+    - 2576
   label: 卷四百五十九
   type: section
   level: 1
-- ref: {seq: 460, marker_id: KR4h0152_WYG_460-1a, span: [body, 0, 2584]}
+- ref:
+    seq: 460
+    marker_id: KR4h0152_WYG_460-1a
+    span:
+    - body
+    - 0
+    - 2584
   label: 卷四百六十
   type: section
   level: 1
-- ref: {seq: 461, marker_id: KR4h0152_WYG_461-1a, span: [body, 0, 3138]}
+- ref:
+    seq: 461
+    marker_id: KR4h0152_WYG_461-1a
+    span:
+    - body
+    - 0
+    - 3138
   label: 卷四百六十一
   type: section
   level: 1
-- ref: {seq: 462, marker_id: KR4h0152_WYG_462-1a, span: [body, 0, 4795]}
+- ref:
+    seq: 462
+    marker_id: KR4h0152_WYG_462-1a
+    span:
+    - body
+    - 0
+    - 4795
   label: 卷四百六十二
   type: section
   level: 1
-- ref: {seq: 463, marker_id: KR4h0152_WYG_463-1a, span: [body, 0, 10927]}
+- ref:
+    seq: 463
+    marker_id: KR4h0152_WYG_463-1a
+    span:
+    - body
+    - 0
+    - 10927
   label: 卷四百六十三
   type: section
   level: 1
-- ref: {seq: 464, marker_id: KR4h0152_WYG_464-1a, span: [body, 0, 2846]}
+- ref:
+    seq: 464
+    marker_id: KR4h0152_WYG_464-1a
+    span:
+    - body
+    - 0
+    - 2846
   label: 卷四百六十四
   type: section
   level: 1
-- ref: {seq: 465, marker_id: KR4h0152_WYG_465-1a, span: [body, 0, 1501]}
+- ref:
+    seq: 465
+    marker_id: KR4h0152_WYG_465-1a
+    span:
+    - body
+    - 0
+    - 1501
   label: 卷四百六十五
   type: section
   level: 1
-- ref: {seq: 466, marker_id: KR4h0152_WYG_466-1a, span: [body, 0, 11069]}
+- ref:
+    seq: 466
+    marker_id: KR4h0152_WYG_466-1a
+    span:
+    - body
+    - 0
+    - 11069
   label: 卷四百六十六
   type: section
   level: 1
-- ref: {seq: 467, marker_id: KR4h0152_WYG_467-1a, span: [body, 0, 6058]}
+- ref:
+    seq: 467
+    marker_id: KR4h0152_WYG_467-1a
+    span:
+    - body
+    - 0
+    - 6058
   label: 卷四百六十七
   type: section
   level: 1
-- ref: {seq: 468, marker_id: KR4h0152_WYG_468-1a, span: [body, 0, 5127]}
+- ref:
+    seq: 468
+    marker_id: KR4h0152_WYG_468-1a
+    span:
+    - body
+    - 0
+    - 5127
   label: 卷四百六十八
   type: section
   level: 1
-- ref: {seq: 469, marker_id: KR4h0152_WYG_469-1a, span: [body, 0, 7604]}
+- ref:
+    seq: 469
+    marker_id: KR4h0152_WYG_469-1a
+    span:
+    - body
+    - 0
+    - 7604
   label: 卷四百六十九
   type: section
   level: 1
-- ref: {seq: 470, marker_id: KR4h0152_WYG_470-1a, span: [body, 0, 7944]}
+- ref:
+    seq: 470
+    marker_id: KR4h0152_WYG_470-1a
+    span:
+    - body
+    - 0
+    - 7944
   label: 卷四百七十
   type: section
   level: 1
-- ref: {seq: 471, marker_id: KR4h0152_WYG_471-1a, span: [body, 0, 5889]}
+- ref:
+    seq: 471
+    marker_id: KR4h0152_WYG_471-1a
+    span:
+    - body
+    - 0
+    - 5889
   label: 卷四百七十一
   type: section
   level: 1
-- ref: {seq: 472, marker_id: KR4h0152_WYG_472-1a, span: [body, 0, 2678]}
+- ref:
+    seq: 472
+    marker_id: KR4h0152_WYG_472-1a
+    span:
+    - body
+    - 0
+    - 2678
   label: 卷四百七十二
   type: section
   level: 1
-- ref: {seq: 473, marker_id: KR4h0152_WYG_473-1a, span: [body, 0, 6721]}
+- ref:
+    seq: 473
+    marker_id: KR4h0152_WYG_473-1a
+    span:
+    - body
+    - 0
+    - 6721
   label: 卷四百七十三
   type: section
   level: 1
-- ref: {seq: 474, marker_id: KR4h0152_WYG_474-1a, span: [body, 0, 6412]}
+- ref:
+    seq: 474
+    marker_id: KR4h0152_WYG_474-1a
+    span:
+    - body
+    - 0
+    - 6412
   label: 卷四百七十四
   type: section
   level: 1
-- ref: {seq: 475, marker_id: KR4h0152_WYG_475-1a, span: [body, 0, 6346]}
+- ref:
+    seq: 475
+    marker_id: KR4h0152_WYG_475-1a
+    span:
+    - body
+    - 0
+    - 6346
   label: 卷四百七十五
   type: section
   level: 1
-- ref: {seq: 476, marker_id: KR4h0152_WYG_476-1a, span: [body, 0, 5340]}
+- ref:
+    seq: 476
+    marker_id: KR4h0152_WYG_476-1a
+    span:
+    - body
+    - 0
+    - 5340
   label: 卷四百七十六
   type: section
   level: 1
-- ref: {seq: 477, marker_id: KR4h0152_WYG_477-1a, span: [body, 0, 5303]}
+- ref:
+    seq: 477
+    marker_id: KR4h0152_WYG_477-1a
+    span:
+    - body
+    - 0
+    - 5303
   label: 卷四百七十七
   type: section
   level: 1
-- ref: {seq: 478, marker_id: KR4h0152_WYG_478-1a, span: [body, 0, 5323]}
+- ref:
+    seq: 478
+    marker_id: KR4h0152_WYG_478-1a
+    span:
+    - body
+    - 0
+    - 5323
   label: 卷四百七十八
   type: section
   level: 1
-- ref: {seq: 479, marker_id: KR4h0152_WYG_479-1a, span: [body, 0, 7262]}
+- ref:
+    seq: 479
+    marker_id: KR4h0152_WYG_479-1a
+    span:
+    - body
+    - 0
+    - 7262
   label: 卷四百七十九
   type: section
   level: 1
-- ref: {seq: 480, marker_id: KR4h0152_WYG_480-1a, span: [body, 0, 8211]}
+- ref:
+    seq: 480
+    marker_id: KR4h0152_WYG_480-1a
+    span:
+    - body
+    - 0
+    - 8211
   label: 卷四百八十
   type: section
   level: 1
