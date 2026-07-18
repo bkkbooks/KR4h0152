@@ -31,6 +31,7 @@ markers:
   - {type: line-break, offset: 21, content: '', id: KR4h0152_WYG_374-1a05}
   - {type: indent, offset: 21, content: 　　, id: KR4h0152_krp_374-bkkind5}
   - {type: punctuation, offset: 26, content: (, id: KR4h0152_krp_374-bkkpn1}
+  - {type: voice, offset: 26, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 29, content: /, id: KR4h0152_krp_374-bkkpn2}
   - {type: punctuation, offset: 29, content: ), id: KR4h0152_krp_374-bkkpn3}
   - {type: 'kr:newline', offset: 29, content: '
@@ -200,6 +201,7 @@ markers:
   - {type: line-break, offset: 687, content: '', id: KR4h0152_WYG_374-3a06}
   - {type: indent, offset: 687, content: 　　, id: KR4h0152_krp_374-bkkind6}
   - {type: punctuation, offset: 698, content: (, id: KR4h0152_krp_374-bkkpn4}
+  - {type: voice, offset: 698, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 701, content: /, id: KR4h0152_krp_374-bkkpn5}
   - {type: punctuation, offset: 701, content: ), id: KR4h0152_krp_374-bkkpn6}
   - {type: 'kr:newline', offset: 701, content: '
@@ -395,6 +397,7 @@ markers:
   - {type: indent, offset: 1438, content: 　　, id: KR4h0152_krp_374-bkkind7}
   - {type: substitution, offset: 1442, original: 庄, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16381}}
   - {type: punctuation, offset: 1449, content: (, id: KR4h0152_krp_374-bkkpn7}
+  - {type: voice, offset: 1449, length: 2, name: note, id: n3}
   - {type: substitution, offset: 1450, original: 㟠, replacement: 岡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-1490}}
   - {type: punctuation, offset: 1451, content: /, id: KR4h0152_krp_374-bkkpn8}
   - {type: punctuation, offset: 1451, content: ), id: KR4h0152_krp_374-bkkpn9}
@@ -595,4 +598,4 @@ markers:
 
       ', id: KR4h0152_krp_374-bkkkrnewl125}
   back: []
-hash: sha256:f8408939ec6cbe9fd6096529c447a24bcbf0c9ebe38b0f166c2b1819134d13b5
+hash: sha256:4b322259cfb7d6d703e1d90dd65465fe880d9ac6b7f106c6444b98f318c4043b
